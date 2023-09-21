@@ -1,0 +1,3192 @@
+[
+  {
+    "user_status": [
+      {
+        "id": "1a83b8f2-1c58-4b59-8ac2-431dc3578b54",
+        "created_at": "2023-09-21T05:58:59.096Z",
+        "updated_at": "2023-09-21T05:06:28.725Z"
+      },
+      {
+        "id": "9e0143b7-dff4-46c1-a84a-ba33c50389f9",
+        "created_at": "2023-09-20T19:47:57.070Z",
+        "updated_at": "2023-09-20T22:17:38.012Z"
+      },
+      {
+        "id": "78196a42-497f-44d8-8261-5266c22ef668",
+        "created_at": "2023-09-20T19:00:47.574Z",
+        "updated_at": "2023-09-21T11:38:28.933Z"
+      },
+      {
+        "id": "770ba3a3-a3e3-47d6-819e-ca673a73d2eb",
+        "created_at": "2023-09-21T11:14:03.337Z",
+        "updated_at": "2023-09-21T04:28:28.744Z"
+      },
+      {
+        "id": "1af19e56-7f31-4320-8c83-90a821abe826",
+        "created_at": "2023-09-21T08:57:49.674Z",
+        "updated_at": "2023-09-21T08:49:32.141Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "2c838ed7-bd07-4ac1-9943-d4560cbba3bc",
+        "created_at": "2023-09-20T21:30:19.932Z",
+        "updated_at": "2023-09-21T09:26:37.125Z"
+      },
+      {
+        "id": "c7f64fec-3e6b-4be6-90f0-cc01b369fd0f",
+        "created_at": "2023-09-21T01:40:44.650Z",
+        "updated_at": "2023-09-21T18:31:48.587Z"
+      },
+      {
+        "id": "1cda263a-c4eb-4b2a-bfba-7361391d940b",
+        "created_at": "2023-09-21T06:34:34.519Z",
+        "updated_at": "2023-09-20T22:48:12.472Z"
+      },
+      {
+        "id": "f7ea196f-505a-4fab-8fc2-85ddaea293ff",
+        "created_at": "2023-09-21T17:34:22.936Z",
+        "updated_at": "2023-09-21T09:35:13.781Z"
+      },
+      {
+        "id": "5f3490bc-15cb-4f66-8835-e3466f1b18ed",
+        "created_at": "2023-09-21T16:28:26.630Z",
+        "updated_at": "2023-09-21T09:43:41.466Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "a3b426d7-972c-4aa5-9555-1cc066aa9686",
+        "created_at": "2023-09-21T06:43:44.198Z",
+        "updated_at": "2023-09-21T07:33:53.066Z"
+      },
+      {
+        "id": "108b90a4-90df-4511-83ac-6eb868686f64",
+        "created_at": "2023-09-20T20:40:00.708Z",
+        "updated_at": "2023-09-21T01:13:18.605Z"
+      },
+      {
+        "id": "f729add1-d9f7-47bb-b050-cd516acb9456",
+        "created_at": "2023-09-21T04:23:57.491Z",
+        "updated_at": "2023-09-21T17:28:52.906Z"
+      },
+      {
+        "id": "ddcb7926-fc75-476f-86f8-57d872cde1d4",
+        "created_at": "2023-09-21T02:40:22.069Z",
+        "updated_at": "2023-09-20T22:48:28.061Z"
+      },
+      {
+        "id": "9435801e-b322-4bcb-80ff-679c85e8ff57",
+        "created_at": "2023-09-20T23:42:01.661Z",
+        "updated_at": "2023-09-21T03:01:07.976Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "a876ced2-2794-406e-ae0c-06617f3fc548",
+        "created_at": "2023-09-21T10:13:01.908Z",
+        "updated_at": "2023-09-21T15:36:12.506Z"
+      },
+      {
+        "id": "8282d44f-41fb-438b-8c80-d6d1f9ae2972",
+        "created_at": "2023-09-21T16:14:13.600Z",
+        "updated_at": "2023-09-20T20:34:26.840Z"
+      },
+      {
+        "id": "930a4272-977b-4e24-a19c-838f965b2a8b",
+        "created_at": "2023-09-20T23:39:32.900Z",
+        "updated_at": "2023-09-21T02:02:35.863Z"
+      },
+      {
+        "id": "af096540-d839-4e69-9bb6-ea11e4ffa298",
+        "created_at": "2023-09-21T01:14:55.826Z",
+        "updated_at": "2023-09-21T11:15:56.009Z"
+      },
+      {
+        "id": "9339f574-bcd7-4ee5-89f8-fb78ca442647",
+        "created_at": "2023-09-21T10:50:20.648Z",
+        "updated_at": "2023-09-21T09:47:29.113Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "ebbf0ecf-43d1-4806-8d75-c1cdd26de3db",
+        "created_at": "2023-09-21T08:34:18.646Z",
+        "updated_at": "2023-09-21T06:51:30.244Z"
+      },
+      {
+        "id": "8c8e5318-b753-436a-b3cf-9453477c4269",
+        "created_at": "2023-09-21T15:15:53.428Z",
+        "updated_at": "2023-09-21T15:18:43.634Z"
+      },
+      {
+        "id": "ddbf37e8-759a-4340-8ae4-077505bee1dd",
+        "created_at": "2023-09-21T16:58:38.476Z",
+        "updated_at": "2023-09-21T10:41:55.956Z"
+      },
+      {
+        "id": "b35de2d9-4dc7-485e-8232-0cda2e19bff5",
+        "created_at": "2023-09-21T13:02:53.953Z",
+        "updated_at": "2023-09-20T20:48:46.487Z"
+      },
+      {
+        "id": "66ee89fd-ae05-4bce-acb5-d0519d6df534",
+        "created_at": "2023-09-21T04:55:21.130Z",
+        "updated_at": "2023-09-21T10:59:45.782Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "086e631b-4a07-426b-8bd4-121718ec46fd",
+        "created_at": "2023-09-21T08:42:27.089Z",
+        "updated_at": "2023-09-21T12:28:01.619Z"
+      },
+      {
+        "id": "fbbbe61c-75c0-46aa-8748-4e8c877dd02e",
+        "created_at": "2023-09-21T04:51:07.888Z",
+        "updated_at": "2023-09-21T13:24:01.156Z"
+      },
+      {
+        "id": "7097e57f-cb9a-4d28-9c69-1e7324d1af6e",
+        "created_at": "2023-09-21T02:53:18.528Z",
+        "updated_at": "2023-09-21T05:49:38.259Z"
+      },
+      {
+        "id": "7de4428d-5b26-4d16-a00d-2ac028eb76e4",
+        "created_at": "2023-09-21T04:33:19.714Z",
+        "updated_at": "2023-09-21T00:18:34.271Z"
+      },
+      {
+        "id": "9cd267f0-feca-4e2c-9ad8-02979aefe271",
+        "created_at": "2023-09-20T23:35:06.251Z",
+        "updated_at": "2023-09-21T12:54:02.385Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "0eef0662-f601-4078-b7d6-db8a97df1a07",
+        "created_at": "2023-09-21T16:18:40.766Z",
+        "updated_at": "2023-09-21T14:45:04.855Z"
+      },
+      {
+        "id": "20f98fbd-8b1c-4ca9-9821-d20c83d5907c",
+        "created_at": "2023-09-21T04:01:22.884Z",
+        "updated_at": "2023-09-21T00:32:12.022Z"
+      },
+      {
+        "id": "9e061103-a74b-494e-bc90-d3a34871e2fa",
+        "created_at": "2023-09-21T10:09:56.507Z",
+        "updated_at": "2023-09-21T13:45:41.050Z"
+      },
+      {
+        "id": "4a7443d4-8c18-49c6-8f11-0497225fc0b3",
+        "created_at": "2023-09-21T06:30:33.612Z",
+        "updated_at": "2023-09-21T08:58:09.483Z"
+      },
+      {
+        "id": "05b38862-65a3-4f3f-8ce1-5b471c292dae",
+        "created_at": "2023-09-21T15:41:01.350Z",
+        "updated_at": "2023-09-21T15:42:02.312Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "56cd375b-4836-4f16-8985-962d8171261a",
+        "created_at": "2023-09-20T21:15:12.631Z",
+        "updated_at": "2023-09-21T06:09:52.298Z"
+      },
+      {
+        "id": "f8fac9d4-d9dc-44e6-91ef-eafbfda3b15d",
+        "created_at": "2023-09-21T02:38:59.620Z",
+        "updated_at": "2023-09-20T19:51:28.698Z"
+      },
+      {
+        "id": "9ac22783-cb9c-409d-b5aa-ceb0ad0eda65",
+        "created_at": "2023-09-21T03:41:12.681Z",
+        "updated_at": "2023-09-20T18:50:51.612Z"
+      },
+      {
+        "id": "683d9756-fef9-4822-ba50-2e704b797930",
+        "created_at": "2023-09-21T14:10:48.869Z",
+        "updated_at": "2023-09-21T08:54:02.587Z"
+      },
+      {
+        "id": "cc35a468-7374-46bf-a882-345e255f68a7",
+        "created_at": "2023-09-21T01:51:21.920Z",
+        "updated_at": "2023-09-21T09:39:16.758Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "8450588d-cefe-4446-983d-dd731dbacc75",
+        "created_at": "2023-09-20T22:54:40.049Z",
+        "updated_at": "2023-09-21T03:01:23.059Z"
+      },
+      {
+        "id": "3a532d2b-a3b6-4aed-95ce-14e5beabf913",
+        "created_at": "2023-09-20T22:03:37.706Z",
+        "updated_at": "2023-09-20T22:28:15.211Z"
+      },
+      {
+        "id": "606256de-7714-4d35-9a72-4b42bbc69b4f",
+        "created_at": "2023-09-21T07:43:11.687Z",
+        "updated_at": "2023-09-20T22:17:55.626Z"
+      },
+      {
+        "id": "b5132351-468a-4d2d-bccb-6e0e48fd7cb4",
+        "created_at": "2023-09-21T06:11:20.291Z",
+        "updated_at": "2023-09-21T17:31:37.089Z"
+      },
+      {
+        "id": "c0b0c1cd-8f85-4adf-879d-a72a41ae6a51",
+        "created_at": "2023-09-21T16:53:32.131Z",
+        "updated_at": "2023-09-21T04:52:39.104Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "22d1f63d-375e-405d-b699-d04dd26a65bf",
+        "created_at": "2023-09-21T12:11:13.252Z",
+        "updated_at": "2023-09-21T08:55:30.383Z"
+      },
+      {
+        "id": "e4b2b26b-b9b4-4f48-93bd-61a263d5e3c9",
+        "created_at": "2023-09-21T08:19:37.937Z",
+        "updated_at": "2023-09-21T01:41:04.301Z"
+      },
+      {
+        "id": "8ed0186d-3573-40f7-9c68-a38bf886ceb0",
+        "created_at": "2023-09-21T10:23:01.950Z",
+        "updated_at": "2023-09-21T18:32:29.147Z"
+      },
+      {
+        "id": "8fd69c5a-4ffe-426e-be5e-41dca2c40a91",
+        "created_at": "2023-09-21T10:17:08.887Z",
+        "updated_at": "2023-09-21T12:34:29.256Z"
+      },
+      {
+        "id": "0ab09b4a-40dc-40f7-a024-8ef908ccba84",
+        "created_at": "2023-09-21T16:26:10.323Z",
+        "updated_at": "2023-09-21T06:48:46.007Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2cf2fc8d-c8c9-4c5d-b172-0925757e4446",
+        "email": "Amira_Klein@roq.tech",
+        "firstName": "Marcus",
+        "lastName": "Cassin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/991.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "98a5782f-cf05-4560-92bb-31cea7b2ddea",
+        "email": "Cathy.Cremin-OConnell@roq.tech",
+        "firstName": "Brandt",
+        "lastName": "Langworth",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59243732",
+        "tenantId": null
+      },
+      {
+        "reference": "93efeb2d-5850-4e63-b0f8-29b24ca57a41",
+        "email": "Nikolas.Ullrich89@roq.tech",
+        "firstName": "Lavon",
+        "lastName": "Lemke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89981636",
+        "tenantId": null
+      },
+      {
+        "reference": "a6b68f86-c11b-4896-8f8c-d5e2b09417ad",
+        "email": "Vivienne85@roq.tech",
+        "firstName": "Aidan",
+        "lastName": "Beer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/156.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f6c4aa39-f3e2-4ad1-95c6-a21909be26cf",
+        "email": "Laurie.Conroy@roq.tech",
+        "firstName": "Angus",
+        "lastName": "Keeling",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2554427",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_status": [
+      {
+        "id": "c9a05826-088d-4222-8156-3703f358028c",
+        "created_at": "2023-09-21T16:55:37.787Z",
+        "updated_at": "2023-09-21T11:33:38.419Z"
+      },
+      {
+        "id": "e1551926-e663-45d7-b0d2-606161559d85",
+        "created_at": "2023-09-21T04:38:32.370Z",
+        "updated_at": "2023-09-21T00:20:11.048Z"
+      },
+      {
+        "id": "b89197f2-1604-426e-8058-1961d9d42320",
+        "created_at": "2023-09-21T07:53:01.135Z",
+        "updated_at": "2023-09-21T07:38:55.994Z"
+      },
+      {
+        "id": "725bf438-7ead-46d6-abc4-28636edffa36",
+        "created_at": "2023-09-21T00:28:02.671Z",
+        "updated_at": "2023-09-21T04:29:31.595Z"
+      },
+      {
+        "id": "4c39baca-a09a-46bc-a45c-35f4963cf0e1",
+        "created_at": "2023-09-21T06:40:16.633Z",
+        "updated_at": "2023-09-21T04:54:14.380Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "4d50c22f-eba3-4490-be66-50e74f0565fa",
+        "created_at": "2023-09-20T20:07:04.279Z",
+        "updated_at": "2023-09-21T07:15:02.264Z"
+      },
+      {
+        "id": "fbcbf973-91f4-4a14-af2e-ae4e40273a4a",
+        "created_at": "2023-09-20T19:26:12.548Z",
+        "updated_at": "2023-09-21T06:25:13.896Z"
+      },
+      {
+        "id": "b80dd997-7d90-4785-ab22-714ada45d40b",
+        "created_at": "2023-09-20T22:15:21.415Z",
+        "updated_at": "2023-09-21T06:16:32.427Z"
+      },
+      {
+        "id": "aff38d95-75f2-4627-bb8c-13c4fc9165c6",
+        "created_at": "2023-09-21T13:33:04.000Z",
+        "updated_at": "2023-09-21T03:22:07.307Z"
+      },
+      {
+        "id": "5925598f-8e19-401e-b28c-9f752efca128",
+        "created_at": "2023-09-20T23:57:12.236Z",
+        "updated_at": "2023-09-21T03:15:51.165Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "eab6902c-c4e3-4f2c-8fcf-e01ce0b78de3",
+        "created_at": "2023-09-21T10:25:31.101Z",
+        "updated_at": "2023-09-21T10:20:51.991Z"
+      },
+      {
+        "id": "cdd9069d-039e-456c-aed3-946c523d9821",
+        "created_at": "2023-09-21T06:25:29.096Z",
+        "updated_at": "2023-09-21T03:42:16.919Z"
+      },
+      {
+        "id": "0db5ff41-ac14-44ca-a85c-67656b30d818",
+        "created_at": "2023-09-21T09:52:46.383Z",
+        "updated_at": "2023-09-20T20:49:35.745Z"
+      },
+      {
+        "id": "b5c0359c-4c76-46f2-8be1-f9e6ba9211d5",
+        "created_at": "2023-09-21T11:58:07.027Z",
+        "updated_at": "2023-09-21T11:17:35.108Z"
+      },
+      {
+        "id": "c94def30-758e-401e-b7fa-d0e796a5044f",
+        "created_at": "2023-09-21T02:02:51.890Z",
+        "updated_at": "2023-09-21T18:04:17.042Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "b94b14a7-bb17-4db8-8a0b-4554ea0f044d",
+        "created_at": "2023-09-21T14:44:42.908Z",
+        "updated_at": "2023-09-21T07:00:16.204Z"
+      },
+      {
+        "id": "bf1b9f6f-0e3e-49d6-bb85-8a57dd91e233",
+        "created_at": "2023-09-21T10:06:52.799Z",
+        "updated_at": "2023-09-21T15:27:54.654Z"
+      },
+      {
+        "id": "93e39252-4ae3-434d-b821-533cbedf638b",
+        "created_at": "2023-09-21T09:43:16.224Z",
+        "updated_at": "2023-09-20T22:39:57.077Z"
+      },
+      {
+        "id": "310e208d-3d90-446c-b82f-7e301ca0ce29",
+        "created_at": "2023-09-21T16:24:49.315Z",
+        "updated_at": "2023-09-21T16:08:18.787Z"
+      },
+      {
+        "id": "ded72a5d-90b0-466a-81aa-2a84f606a495",
+        "created_at": "2023-09-21T04:39:29.851Z",
+        "updated_at": "2023-09-21T04:42:06.106Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "0aee0262-2f53-42d3-aed2-c9803cdcca10",
+        "created_at": "2023-09-21T09:28:53.495Z",
+        "updated_at": "2023-09-21T06:32:24.248Z"
+      },
+      {
+        "id": "431132a1-edf8-4aa8-8570-61f8a62f9ad3",
+        "created_at": "2023-09-20T23:40:27.008Z",
+        "updated_at": "2023-09-21T13:17:31.400Z"
+      },
+      {
+        "id": "1092cb10-9be6-44b5-8b72-210260b4f272",
+        "created_at": "2023-09-21T15:23:49.578Z",
+        "updated_at": "2023-09-21T15:42:22.013Z"
+      },
+      {
+        "id": "034a5ce7-5f4c-479a-8e85-218f79ec9711",
+        "created_at": "2023-09-20T22:11:04.681Z",
+        "updated_at": "2023-09-21T09:01:38.045Z"
+      },
+      {
+        "id": "e1977a9d-6760-47da-abf8-4d4cf1de9674",
+        "created_at": "2023-09-20T23:17:26.787Z",
+        "updated_at": "2023-09-21T06:50:09.660Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "c2bd7f56-64ef-4dc3-a187-2d951ba80c1d",
+        "created_at": "2023-09-20T23:24:52.349Z",
+        "updated_at": "2023-09-20T22:36:45.364Z"
+      },
+      {
+        "id": "349d8b64-d0ea-4287-b214-756a723b3411",
+        "created_at": "2023-09-20T22:07:06.969Z",
+        "updated_at": "2023-09-21T15:20:02.632Z"
+      },
+      {
+        "id": "11814ebd-82c6-492a-93cf-0c6953fd1be8",
+        "created_at": "2023-09-20T22:35:45.758Z",
+        "updated_at": "2023-09-21T16:14:34.703Z"
+      },
+      {
+        "id": "fb07969d-035f-4d7d-9c43-3d2283de2d4b",
+        "created_at": "2023-09-21T16:49:51.441Z",
+        "updated_at": "2023-09-20T20:12:37.782Z"
+      },
+      {
+        "id": "b0f267e3-f51a-4bf0-90d3-43e9d7043f43",
+        "created_at": "2023-09-21T06:50:06.398Z",
+        "updated_at": "2023-09-21T15:26:15.978Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "10de0daa-587f-4916-8943-7bbbacfd7198",
+        "created_at": "2023-09-21T01:16:39.794Z",
+        "updated_at": "2023-09-21T17:28:12.451Z"
+      },
+      {
+        "id": "e13d25c1-2e3e-45e9-9c2a-a06129fc367f",
+        "created_at": "2023-09-21T18:06:38.918Z",
+        "updated_at": "2023-09-21T10:35:48.862Z"
+      },
+      {
+        "id": "9461d477-cd37-405f-91bb-28ae5e5b67c5",
+        "created_at": "2023-09-20T22:15:27.647Z",
+        "updated_at": "2023-09-21T04:55:14.485Z"
+      },
+      {
+        "id": "44073272-4ec5-4320-a4ce-9a58e323f1a5",
+        "created_at": "2023-09-20T23:55:44.278Z",
+        "updated_at": "2023-09-21T11:00:16.822Z"
+      },
+      {
+        "id": "236dcf86-5e5e-447c-866d-87dc7a26884b",
+        "created_at": "2023-09-21T16:10:36.927Z",
+        "updated_at": "2023-09-21T16:37:15.511Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "aac1153a-1c22-428d-8184-f796677db7e8",
+        "created_at": "2023-09-21T11:46:11.853Z",
+        "updated_at": "2023-09-20T21:09:48.989Z"
+      },
+      {
+        "id": "92639a3c-f90e-41cf-8323-a4d42710d019",
+        "created_at": "2023-09-21T13:36:41.569Z",
+        "updated_at": "2023-09-21T08:17:20.263Z"
+      },
+      {
+        "id": "9975d2fc-41b7-41f3-bd55-514d9fec2739",
+        "created_at": "2023-09-21T04:54:56.851Z",
+        "updated_at": "2023-09-21T00:06:07.121Z"
+      },
+      {
+        "id": "775e1e46-691e-4fb6-826f-eaa81dc6f1b0",
+        "created_at": "2023-09-20T19:26:40.596Z",
+        "updated_at": "2023-09-20T21:02:00.416Z"
+      },
+      {
+        "id": "f2deecd3-cd16-4bbe-a571-e12e09e4506d",
+        "created_at": "2023-09-20T19:42:41.280Z",
+        "updated_at": "2023-09-21T01:55:52.362Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "3801be82-461b-43a4-938e-b2c4baa4b8c9",
+        "created_at": "2023-09-21T16:33:02.789Z",
+        "updated_at": "2023-09-21T10:38:32.927Z"
+      },
+      {
+        "id": "632d23f0-ab14-4bac-9c73-a5d6dcdc377d",
+        "created_at": "2023-09-20T23:50:50.900Z",
+        "updated_at": "2023-09-21T18:18:01.181Z"
+      },
+      {
+        "id": "50322bb6-2e61-4648-bce1-73d2c04f1817",
+        "created_at": "2023-09-21T17:06:21.649Z",
+        "updated_at": "2023-09-21T07:18:08.784Z"
+      },
+      {
+        "id": "a52b012d-6a11-4291-9352-02b673fb8a21",
+        "created_at": "2023-09-21T01:22:44.223Z",
+        "updated_at": "2023-09-20T20:42:05.323Z"
+      },
+      {
+        "id": "3f7b6605-ff47-450a-8492-7d11dd12abea",
+        "created_at": "2023-09-20T21:51:12.416Z",
+        "updated_at": "2023-09-21T16:31:33.836Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "d0370dcf-1ca9-44f2-adc1-2b59475d9f2b",
+        "created_at": "2023-09-20T22:48:14.077Z",
+        "updated_at": "2023-09-21T09:27:52.553Z"
+      },
+      {
+        "id": "b92f2b18-3c43-4836-bffb-424222240fec",
+        "created_at": "2023-09-21T09:42:17.333Z",
+        "updated_at": "2023-09-21T16:56:10.671Z"
+      },
+      {
+        "id": "769c12d0-6be5-4c01-987d-7d0cab2bb3d4",
+        "created_at": "2023-09-21T02:24:25.653Z",
+        "updated_at": "2023-09-21T11:47:19.112Z"
+      },
+      {
+        "id": "21da700c-a7fe-4475-982a-d3a1dda9ea7f",
+        "created_at": "2023-09-20T20:33:51.223Z",
+        "updated_at": "2023-09-21T14:03:15.485Z"
+      },
+      {
+        "id": "7f8a4572-7104-464b-8c1e-3b7934e87849",
+        "created_at": "2023-09-21T03:20:50.699Z",
+        "updated_at": "2023-09-21T04:37:31.552Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b985d4d6-0193-4e28-ad37-d36dfa334289",
+        "email": "Tyrese_Funk16@roq.tech",
+        "firstName": "Al",
+        "lastName": "Sporer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/545.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6f965df9-fcc8-45e9-8a83-59a91f82cd98",
+        "email": "Thad_Hermann@roq.tech",
+        "firstName": "Johann",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/104.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "82ae0522-8c18-4d8f-b282-bc6f4a78958b",
+        "email": "Alvah.Bruen-Cartwright55@roq.tech",
+        "firstName": "Oma",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60785908",
+        "tenantId": null
+      },
+      {
+        "reference": "d51ccfcf-9709-4fc1-85a6-a4f61181330a",
+        "email": "Stone.Swaniawski6@roq.tech",
+        "firstName": "Freeman",
+        "lastName": "Simonis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/513.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "aecaf2f0-2912-4dc6-8fef-2b88493bc9fd",
+        "email": "Evans94@roq.tech",
+        "firstName": "Stephen",
+        "lastName": "Ledner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/412.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_status": [
+      {
+        "id": "f94cf546-f61e-4492-809d-542790e9e70f",
+        "created_at": "2023-09-21T11:08:26.400Z",
+        "updated_at": "2023-09-20T23:49:32.926Z"
+      },
+      {
+        "id": "1002a9cd-cceb-41dd-a40e-544db7efd839",
+        "created_at": "2023-09-21T13:47:57.889Z",
+        "updated_at": "2023-09-21T15:48:21.340Z"
+      },
+      {
+        "id": "a4e63e10-e170-4b41-83b0-93bfba805405",
+        "created_at": "2023-09-21T04:53:55.528Z",
+        "updated_at": "2023-09-21T13:14:10.719Z"
+      },
+      {
+        "id": "704289b7-81aa-4535-9f88-0130983f3057",
+        "created_at": "2023-09-21T03:44:54.165Z",
+        "updated_at": "2023-09-21T12:40:38.040Z"
+      },
+      {
+        "id": "5e1ea0c2-d22c-4348-9e8e-6fd18776b14a",
+        "created_at": "2023-09-21T03:54:28.430Z",
+        "updated_at": "2023-09-21T12:39:17.550Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "3281a7e6-0ece-4b71-a9e7-e7ad64d3d27e",
+        "created_at": "2023-09-21T18:04:50.892Z",
+        "updated_at": "2023-09-21T01:33:32.715Z"
+      },
+      {
+        "id": "7cfded67-61a2-4353-9c7d-204172cbf333",
+        "created_at": "2023-09-21T07:13:08.960Z",
+        "updated_at": "2023-09-21T17:44:02.205Z"
+      },
+      {
+        "id": "e507e48c-8f91-4068-94e5-ee1a660c4c86",
+        "created_at": "2023-09-21T11:47:54.743Z",
+        "updated_at": "2023-09-21T01:37:01.338Z"
+      },
+      {
+        "id": "147c4200-822a-45fc-8c37-dfba22c08f1b",
+        "created_at": "2023-09-21T17:07:16.016Z",
+        "updated_at": "2023-09-21T11:47:03.148Z"
+      },
+      {
+        "id": "093381cf-fa1a-4178-b696-f3c80ff1a62f",
+        "created_at": "2023-09-21T13:32:28.943Z",
+        "updated_at": "2023-09-20T20:02:06.148Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "16b8aab2-f952-421d-bc97-681b7a2a905a",
+        "created_at": "2023-09-20T23:17:17.511Z",
+        "updated_at": "2023-09-20T19:18:37.631Z"
+      },
+      {
+        "id": "1f1fadc3-d044-4430-bb2c-f8e41c450eff",
+        "created_at": "2023-09-21T02:41:50.858Z",
+        "updated_at": "2023-09-21T03:18:50.077Z"
+      },
+      {
+        "id": "56073e5a-d81b-4b4a-b8f4-09369963fed8",
+        "created_at": "2023-09-20T20:42:49.582Z",
+        "updated_at": "2023-09-21T11:17:00.811Z"
+      },
+      {
+        "id": "50bc15b5-56ae-4904-abd5-b140d67d58d6",
+        "created_at": "2023-09-21T12:44:42.427Z",
+        "updated_at": "2023-09-20T22:10:05.301Z"
+      },
+      {
+        "id": "816dfe97-6613-4cb6-a253-5ff9148bac86",
+        "created_at": "2023-09-21T07:36:07.819Z",
+        "updated_at": "2023-09-21T18:44:56.094Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "f9d1a460-2e00-498c-95f8-574444638c5e",
+        "created_at": "2023-09-21T18:34:50.049Z",
+        "updated_at": "2023-09-21T01:25:15.244Z"
+      },
+      {
+        "id": "9a1fe642-dbcb-4bc6-9096-670b1cd414e5",
+        "created_at": "2023-09-21T11:49:54.729Z",
+        "updated_at": "2023-09-21T13:19:31.254Z"
+      },
+      {
+        "id": "287c1ca9-3b5c-4e7f-9cbd-3435e14aabe9",
+        "created_at": "2023-09-21T07:42:08.368Z",
+        "updated_at": "2023-09-21T13:49:03.455Z"
+      },
+      {
+        "id": "7d66c1ff-f921-4977-909d-d359f48d857d",
+        "created_at": "2023-09-21T16:23:42.229Z",
+        "updated_at": "2023-09-21T02:44:06.941Z"
+      },
+      {
+        "id": "2a6322a6-4cc6-4e69-b19b-2c14381e4162",
+        "created_at": "2023-09-21T08:12:28.855Z",
+        "updated_at": "2023-09-21T14:35:06.297Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "e1da32ad-f8c9-491e-9513-0cc3092bcb38",
+        "created_at": "2023-09-21T13:53:59.581Z",
+        "updated_at": "2023-09-21T13:53:09.982Z"
+      },
+      {
+        "id": "d5238015-1d7e-4a2f-b0ef-ea4c0c3f7667",
+        "created_at": "2023-09-21T00:57:58.682Z",
+        "updated_at": "2023-09-21T01:53:36.127Z"
+      },
+      {
+        "id": "ed153755-eab2-4f62-bd89-6c774c098b68",
+        "created_at": "2023-09-20T23:53:51.782Z",
+        "updated_at": "2023-09-20T22:25:12.992Z"
+      },
+      {
+        "id": "cdde06c6-6fcc-4cc3-beaa-9a0b2df0df05",
+        "created_at": "2023-09-21T13:43:37.651Z",
+        "updated_at": "2023-09-20T19:58:23.373Z"
+      },
+      {
+        "id": "1c843587-b8f9-4a9f-8d42-0cb6f8b1dc84",
+        "created_at": "2023-09-21T11:41:27.227Z",
+        "updated_at": "2023-09-21T16:21:53.749Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "9a29f9ae-5202-4968-8c1f-ef6a0dfada93",
+        "created_at": "2023-09-21T01:36:23.732Z",
+        "updated_at": "2023-09-21T09:26:38.189Z"
+      },
+      {
+        "id": "223a54d6-c7d8-4f20-8bbe-e13cfd9e33b7",
+        "created_at": "2023-09-21T05:15:09.535Z",
+        "updated_at": "2023-09-21T04:25:41.100Z"
+      },
+      {
+        "id": "2ed656c7-8f16-4464-b104-9e64deeb4bba",
+        "created_at": "2023-09-21T05:07:23.279Z",
+        "updated_at": "2023-09-21T06:19:11.740Z"
+      },
+      {
+        "id": "aaef970f-b0c1-4533-8ddf-6bae0068cef0",
+        "created_at": "2023-09-20T22:45:01.654Z",
+        "updated_at": "2023-09-21T03:01:45.713Z"
+      },
+      {
+        "id": "3d06926b-8c20-498f-8db5-913af664a447",
+        "created_at": "2023-09-21T18:13:28.548Z",
+        "updated_at": "2023-09-21T11:41:18.138Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "1e092e28-f831-4e95-adf2-a65da5768de6",
+        "created_at": "2023-09-21T11:47:24.724Z",
+        "updated_at": "2023-09-21T04:50:28.677Z"
+      },
+      {
+        "id": "b336df8f-246a-45a2-94f5-72f2c0a954a9",
+        "created_at": "2023-09-21T01:30:30.766Z",
+        "updated_at": "2023-09-21T14:58:00.863Z"
+      },
+      {
+        "id": "219d328b-642f-4b01-b72c-f1120e13a840",
+        "created_at": "2023-09-20T20:32:08.180Z",
+        "updated_at": "2023-09-21T14:01:40.991Z"
+      },
+      {
+        "id": "9655e134-a55e-4437-a2b1-3ad6d3ac86b1",
+        "created_at": "2023-09-21T05:30:02.352Z",
+        "updated_at": "2023-09-21T05:44:32.655Z"
+      },
+      {
+        "id": "4ce39041-bf20-4a9d-a44f-a6c1b352699b",
+        "created_at": "2023-09-21T03:18:27.517Z",
+        "updated_at": "2023-09-21T05:12:00.700Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "3cbf3d47-600a-436a-9f98-d6ccca03c3fb",
+        "created_at": "2023-09-21T16:34:15.870Z",
+        "updated_at": "2023-09-21T01:23:18.175Z"
+      },
+      {
+        "id": "39a40ccb-804a-499d-b1dc-5124718afbe7",
+        "created_at": "2023-09-21T01:30:30.213Z",
+        "updated_at": "2023-09-21T08:25:00.339Z"
+      },
+      {
+        "id": "77fee847-c424-4535-b418-3f9e78d84e71",
+        "created_at": "2023-09-20T20:31:23.898Z",
+        "updated_at": "2023-09-21T14:01:39.278Z"
+      },
+      {
+        "id": "7d415589-ab21-4760-94ef-5ca056b6b5ca",
+        "created_at": "2023-09-20T19:29:07.600Z",
+        "updated_at": "2023-09-21T13:02:21.254Z"
+      },
+      {
+        "id": "b3a1e3db-ccc3-49b1-a62f-6cbb1dc61731",
+        "created_at": "2023-09-21T00:05:05.179Z",
+        "updated_at": "2023-09-20T19:50:10.062Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "7b1521dd-1d1a-4cd5-b766-211e92b3f9a0",
+        "created_at": "2023-09-21T07:29:32.003Z",
+        "updated_at": "2023-09-21T03:10:40.926Z"
+      },
+      {
+        "id": "40a6ee54-1565-4d4b-8ddb-c1a16faf986c",
+        "created_at": "2023-09-21T13:34:25.460Z",
+        "updated_at": "2023-09-21T00:48:41.537Z"
+      },
+      {
+        "id": "93d52313-b6f1-4632-a48f-cda429fc7b3d",
+        "created_at": "2023-09-21T11:06:33.829Z",
+        "updated_at": "2023-09-21T04:34:20.382Z"
+      },
+      {
+        "id": "bbe65382-957b-4d8c-a148-c6c5a9626261",
+        "created_at": "2023-09-20T20:37:05.878Z",
+        "updated_at": "2023-09-21T10:06:07.846Z"
+      },
+      {
+        "id": "4ed108ec-e2be-41f9-b521-e47971b41eb8",
+        "created_at": "2023-09-21T13:40:27.406Z",
+        "updated_at": "2023-09-21T01:24:42.143Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "2fa6f8c6-9c67-4a29-bc4d-a308ed6bfe70",
+        "created_at": "2023-09-20T22:12:16.796Z",
+        "updated_at": "2023-09-21T16:28:54.367Z"
+      },
+      {
+        "id": "b9c5551d-d811-4b25-9d8a-71b0308e2793",
+        "created_at": "2023-09-21T07:00:04.041Z",
+        "updated_at": "2023-09-20T22:45:40.340Z"
+      },
+      {
+        "id": "012e43a4-cf18-409e-ad07-62d8b2a4d8df",
+        "created_at": "2023-09-21T00:16:20.412Z",
+        "updated_at": "2023-09-21T00:32:16.736Z"
+      },
+      {
+        "id": "7edb9d8e-eb26-41e8-b880-d077e95abcba",
+        "created_at": "2023-09-21T07:11:10.445Z",
+        "updated_at": "2023-09-21T13:21:14.818Z"
+      },
+      {
+        "id": "f30aba26-266e-41d7-8619-0ba31e2b90d7",
+        "created_at": "2023-09-21T06:05:41.829Z",
+        "updated_at": "2023-09-20T23:00:52.184Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "dd96c4a0-13da-496b-8544-e98d73eab4c1",
+        "email": "Geraldine_Hauck@roq.tech",
+        "firstName": "Bettie",
+        "lastName": "Berge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21167310",
+        "tenantId": null
+      },
+      {
+        "reference": "94ae53e3-b016-4ce5-9204-120fec636754",
+        "email": "Bernie_Ryan46@roq.tech",
+        "firstName": "Milford",
+        "lastName": "Grant",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78161018",
+        "tenantId": null
+      },
+      {
+        "reference": "432d4453-a811-4a5c-9efa-c8e4b79bc7fc",
+        "email": "Neal_Kunde43@roq.tech",
+        "firstName": "Valentina",
+        "lastName": "Terry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30125105",
+        "tenantId": null
+      },
+      {
+        "reference": "0f255d24-a3f3-415b-956b-839523d2eb2f",
+        "email": "Jennifer_Ziemann@roq.tech",
+        "firstName": "Patsy",
+        "lastName": "Barton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/117.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2be397d5-1ba7-4fdb-b6e6-23de4540949a",
+        "email": "Karlie.Kilback11@roq.tech",
+        "firstName": "Pedro",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/875.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_status": [
+      {
+        "id": "bd80d0aa-cbe9-4146-9d7c-b561f856b01e",
+        "created_at": "2023-09-21T11:33:25.851Z",
+        "updated_at": "2023-09-21T14:30:21.744Z"
+      },
+      {
+        "id": "c832c4d6-6132-49f0-a2b5-41a0dd1a4414",
+        "created_at": "2023-09-21T03:51:32.145Z",
+        "updated_at": "2023-09-21T05:13:32.120Z"
+      },
+      {
+        "id": "441f3fc3-1e40-465d-a4d3-c962eba1bbc2",
+        "created_at": "2023-09-21T18:30:51.028Z",
+        "updated_at": "2023-09-21T18:06:53.832Z"
+      },
+      {
+        "id": "491e0382-440e-47a6-8aea-a99c25933097",
+        "created_at": "2023-09-21T11:48:21.680Z",
+        "updated_at": "2023-09-21T13:08:22.527Z"
+      },
+      {
+        "id": "9aae5eb8-5a4a-466c-bb60-68c25ca184f6",
+        "created_at": "2023-09-21T04:51:41.967Z",
+        "updated_at": "2023-09-21T16:32:58.459Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "283b74d1-2453-4889-98b2-73cee104e3a3",
+        "created_at": "2023-09-21T13:03:39.256Z",
+        "updated_at": "2023-09-21T07:42:56.200Z"
+      },
+      {
+        "id": "5d044fb5-d3d0-47d7-b218-cb61ebb3d98f",
+        "created_at": "2023-09-21T02:44:29.233Z",
+        "updated_at": "2023-09-21T05:03:36.261Z"
+      },
+      {
+        "id": "96a6d2d3-58ad-482f-bad6-2be1f6cedc21",
+        "created_at": "2023-09-21T11:21:31.419Z",
+        "updated_at": "2023-09-20T22:58:53.013Z"
+      },
+      {
+        "id": "a4075eef-5088-4ccb-878f-45d81b6fc883",
+        "created_at": "2023-09-21T16:18:16.521Z",
+        "updated_at": "2023-09-21T16:43:32.636Z"
+      },
+      {
+        "id": "f16d9311-36b4-482b-a32b-c7f57d32b2ae",
+        "created_at": "2023-09-21T03:53:15.189Z",
+        "updated_at": "2023-09-21T09:10:03.554Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "4e32aba8-2227-4f62-99e5-1ed8c3a9ff11",
+        "created_at": "2023-09-21T14:05:13.503Z",
+        "updated_at": "2023-09-21T05:41:59.107Z"
+      },
+      {
+        "id": "00d650f8-dea2-4343-8715-a88bd481534d",
+        "created_at": "2023-09-21T12:46:09.205Z",
+        "updated_at": "2023-09-21T05:50:08.300Z"
+      },
+      {
+        "id": "6630767d-1516-4d76-9c11-d19422bd8d2a",
+        "created_at": "2023-09-21T16:44:34.024Z",
+        "updated_at": "2023-09-21T09:05:13.376Z"
+      },
+      {
+        "id": "ea7fdec9-5b94-4d6b-81c0-1f03d3dc7f7b",
+        "created_at": "2023-09-21T18:13:20.911Z",
+        "updated_at": "2023-09-21T05:29:14.708Z"
+      },
+      {
+        "id": "2e31e2dc-c23c-4743-b5a1-23fc03de23ed",
+        "created_at": "2023-09-21T16:14:24.449Z",
+        "updated_at": "2023-09-21T18:20:49.345Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "63e0fc28-6a6d-4b43-9a98-b761a8dc8ab1",
+        "created_at": "2023-09-20T20:16:58.781Z",
+        "updated_at": "2023-09-21T09:18:27.387Z"
+      },
+      {
+        "id": "e4c6f3d6-18fd-4064-b7ab-6436d1e0a9f5",
+        "created_at": "2023-09-21T07:24:01.563Z",
+        "updated_at": "2023-09-20T20:58:06.556Z"
+      },
+      {
+        "id": "b5b1acdb-4607-4539-8a7f-a847562920d1",
+        "created_at": "2023-09-21T01:46:53.637Z",
+        "updated_at": "2023-09-21T04:29:18.275Z"
+      },
+      {
+        "id": "fe72489d-b97d-4c00-b307-9a3a54ec9cbd",
+        "created_at": "2023-09-20T23:48:17.044Z",
+        "updated_at": "2023-09-20T21:16:21.988Z"
+      },
+      {
+        "id": "ddf27be7-7807-4c8e-9d57-4f53f67b012e",
+        "created_at": "2023-09-20T19:57:11.813Z",
+        "updated_at": "2023-09-21T02:38:33.074Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "414527da-5394-482c-8149-9b7fc0cfc00a",
+        "created_at": "2023-09-20T22:58:42.570Z",
+        "updated_at": "2023-09-21T04:19:01.678Z"
+      },
+      {
+        "id": "e7c3cd76-136c-4c2d-80b5-0e8ec0027c99",
+        "created_at": "2023-09-20T20:20:22.822Z",
+        "updated_at": "2023-09-21T01:04:04.337Z"
+      },
+      {
+        "id": "103d5e9c-91f4-430c-9419-25b9fb6d6e93",
+        "created_at": "2023-09-21T03:56:16.744Z",
+        "updated_at": "2023-09-21T18:22:09.560Z"
+      },
+      {
+        "id": "096a12d9-3a11-4516-9b6e-145169c1eb38",
+        "created_at": "2023-09-21T09:22:02.291Z",
+        "updated_at": "2023-09-21T00:14:17.437Z"
+      },
+      {
+        "id": "6514c311-3327-452b-9b85-aba727561b67",
+        "created_at": "2023-09-21T05:37:30.201Z",
+        "updated_at": "2023-09-21T18:27:47.761Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "3738ea8b-4964-4e0e-99a7-c14c0b2cde3c",
+        "created_at": "2023-09-20T19:15:48.197Z",
+        "updated_at": "2023-09-21T14:12:47.197Z"
+      },
+      {
+        "id": "f29da973-ac64-4b8d-8482-367428193aaf",
+        "created_at": "2023-09-20T23:23:12.372Z",
+        "updated_at": "2023-09-21T09:12:47.550Z"
+      },
+      {
+        "id": "a750d760-cd88-49a6-99ec-8bd9c7f946a5",
+        "created_at": "2023-09-21T07:31:13.047Z",
+        "updated_at": "2023-09-21T06:12:29.395Z"
+      },
+      {
+        "id": "378806ea-b33d-4ebd-a18b-c43eacb955c6",
+        "created_at": "2023-09-21T10:30:38.166Z",
+        "updated_at": "2023-09-21T09:15:27.301Z"
+      },
+      {
+        "id": "6b6a6512-e14f-404b-b3e1-66389060eb2f",
+        "created_at": "2023-09-21T16:19:24.190Z",
+        "updated_at": "2023-09-20T19:23:11.761Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "57f67427-4a3e-4940-9734-dd0b29f98377",
+        "created_at": "2023-09-21T10:59:11.269Z",
+        "updated_at": "2023-09-21T07:17:09.674Z"
+      },
+      {
+        "id": "f1c21031-d38c-442a-bda8-ebbb5c516e65",
+        "created_at": "2023-09-21T14:06:41.617Z",
+        "updated_at": "2023-09-21T07:04:05.269Z"
+      },
+      {
+        "id": "c5c02675-c535-46cf-9198-4e06e53ecb28",
+        "created_at": "2023-09-21T05:34:47.530Z",
+        "updated_at": "2023-09-21T05:42:30.350Z"
+      },
+      {
+        "id": "5c8383fb-38c7-46a7-b5c4-7885db522562",
+        "created_at": "2023-09-21T01:12:13.459Z",
+        "updated_at": "2023-09-21T17:37:03.168Z"
+      },
+      {
+        "id": "d0f88fbc-2132-40a1-bd64-9f12011bcf2a",
+        "created_at": "2023-09-21T07:38:19.061Z",
+        "updated_at": "2023-09-21T04:47:36.576Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "34b033d0-ad1f-412f-9b43-941489aa567d",
+        "created_at": "2023-09-20T19:43:31.935Z",
+        "updated_at": "2023-09-21T16:41:26.212Z"
+      },
+      {
+        "id": "8ff94d17-5c05-48b0-a9d8-a801186e74b7",
+        "created_at": "2023-09-21T04:26:40.398Z",
+        "updated_at": "2023-09-21T05:28:25.622Z"
+      },
+      {
+        "id": "807443be-4ed5-424a-b201-8baaad8202a8",
+        "created_at": "2023-09-21T13:01:02.035Z",
+        "updated_at": "2023-09-21T04:31:22.949Z"
+      },
+      {
+        "id": "2d99c9be-6537-4774-8575-464c3f46ce30",
+        "created_at": "2023-09-20T19:21:26.564Z",
+        "updated_at": "2023-09-21T14:04:19.397Z"
+      },
+      {
+        "id": "42643ae7-0ce4-4530-a2c7-4244506c2d2b",
+        "created_at": "2023-09-20T21:20:13.467Z",
+        "updated_at": "2023-09-20T20:32:46.794Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "579cb6bb-18e1-4b43-8e62-a97c0170ee70",
+        "created_at": "2023-09-21T12:34:03.929Z",
+        "updated_at": "2023-09-20T23:36:26.074Z"
+      },
+      {
+        "id": "33904c8c-ba3b-4f2d-bdee-2c9cb61ddc3a",
+        "created_at": "2023-09-21T00:53:59.951Z",
+        "updated_at": "2023-09-21T09:07:00.256Z"
+      },
+      {
+        "id": "fe307660-45cc-4637-8889-fad47f616185",
+        "created_at": "2023-09-21T15:24:13.082Z",
+        "updated_at": "2023-09-20T22:38:55.285Z"
+      },
+      {
+        "id": "7c1b639f-9885-45af-9a3f-eb701a124f84",
+        "created_at": "2023-09-21T00:06:58.522Z",
+        "updated_at": "2023-09-21T17:15:45.151Z"
+      },
+      {
+        "id": "dd74d727-3237-45f3-86ea-a66de4800267",
+        "created_at": "2023-09-21T07:26:47.019Z",
+        "updated_at": "2023-09-21T06:16:55.390Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "8e08893e-2e98-424e-bbe5-9cda65d4a135",
+        "created_at": "2023-09-21T05:28:56.008Z",
+        "updated_at": "2023-09-21T08:30:46.141Z"
+      },
+      {
+        "id": "16e25d7b-428e-4575-8667-348b58d408df",
+        "created_at": "2023-09-20T20:59:18.788Z",
+        "updated_at": "2023-09-21T07:43:03.710Z"
+      },
+      {
+        "id": "c6bc088a-f48b-4d64-b9e6-c0fbd8ab9d6b",
+        "created_at": "2023-09-21T01:13:35.342Z",
+        "updated_at": "2023-09-21T12:06:45.729Z"
+      },
+      {
+        "id": "8b4e12ae-31ff-4974-8771-e18d37a2dc96",
+        "created_at": "2023-09-21T16:24:11.024Z",
+        "updated_at": "2023-09-21T07:16:48.004Z"
+      },
+      {
+        "id": "85811e03-31a4-4eea-808e-35827cbe0319",
+        "created_at": "2023-09-20T23:15:57.412Z",
+        "updated_at": "2023-09-21T09:51:15.600Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c57b5037-8466-4efa-a007-28875a37d4b6",
+        "email": "Beau29@roq.tech",
+        "firstName": "Lessie",
+        "lastName": "Schmitt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46846104",
+        "tenantId": null
+      },
+      {
+        "reference": "5e74c336-d7b1-4c2a-8981-2a8dbcbce9b5",
+        "email": "Tony51@roq.tech",
+        "firstName": "Brooklyn",
+        "lastName": "Braun",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79889891",
+        "tenantId": null
+      },
+      {
+        "reference": "62557516-7111-489c-9385-7a04cb262acf",
+        "email": "Maeve_Schneider@roq.tech",
+        "firstName": "Jayce",
+        "lastName": "McCullough",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96282700",
+        "tenantId": null
+      },
+      {
+        "reference": "9cba6be5-a0a0-43b0-8f97-0536ca4f4311",
+        "email": "Malachi_Stokes@roq.tech",
+        "firstName": "Watson",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/946.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0c7af8ab-c805-4758-829a-bde6e1034d69",
+        "email": "Marian.Sawayn@roq.tech",
+        "firstName": "Mossie",
+        "lastName": "Oberbrunner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68760512",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_status": [
+      {
+        "id": "27901f05-bc29-4bd5-9dc3-d62923a2087d",
+        "created_at": "2023-09-21T18:43:06.634Z",
+        "updated_at": "2023-09-21T10:40:05.289Z"
+      },
+      {
+        "id": "6b508c73-1bda-4ed7-9f12-3fa2ae36fbe5",
+        "created_at": "2023-09-21T13:50:37.433Z",
+        "updated_at": "2023-09-21T10:14:00.448Z"
+      },
+      {
+        "id": "a19040c5-f300-4480-bfdc-b2ec9d11b0cf",
+        "created_at": "2023-09-21T15:38:31.908Z",
+        "updated_at": "2023-09-21T17:02:46.500Z"
+      },
+      {
+        "id": "b6f3cbe9-7234-444b-850b-ca315992f2b6",
+        "created_at": "2023-09-21T08:45:16.438Z",
+        "updated_at": "2023-09-21T10:41:57.224Z"
+      },
+      {
+        "id": "802abf62-c0d6-4563-9a15-1514ef4c2504",
+        "created_at": "2023-09-21T16:45:18.704Z",
+        "updated_at": "2023-09-21T10:46:41.780Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "4b7f3eb5-b73d-44e1-b642-184b80a38ae7",
+        "created_at": "2023-09-21T04:40:17.943Z",
+        "updated_at": "2023-09-21T03:14:46.505Z"
+      },
+      {
+        "id": "be8cf86c-b002-47ce-80d0-081b1167a8b2",
+        "created_at": "2023-09-20T20:54:55.756Z",
+        "updated_at": "2023-09-21T13:41:33.217Z"
+      },
+      {
+        "id": "0d5a3343-e8a1-4c78-a7d5-0a67f0afdc3c",
+        "created_at": "2023-09-21T12:33:30.514Z",
+        "updated_at": "2023-09-21T09:22:26.070Z"
+      },
+      {
+        "id": "acf9f83e-c0ed-4d17-b43d-ef557abfa53f",
+        "created_at": "2023-09-20T19:25:46.480Z",
+        "updated_at": "2023-09-21T12:44:21.739Z"
+      },
+      {
+        "id": "b905e960-6c8a-4590-9541-369b6fee8a28",
+        "created_at": "2023-09-21T01:22:20.093Z",
+        "updated_at": "2023-09-21T18:20:54.472Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "a793f6e8-56b9-40c4-ab50-3c1814f9d791",
+        "created_at": "2023-09-21T15:54:17.928Z",
+        "updated_at": "2023-09-21T17:17:44.940Z"
+      },
+      {
+        "id": "881b1a83-4bba-4ba3-8ae7-580d498eed06",
+        "created_at": "2023-09-21T03:37:34.834Z",
+        "updated_at": "2023-09-21T02:19:26.085Z"
+      },
+      {
+        "id": "04eb0e34-81f3-447f-8c87-f2d383bdb9a8",
+        "created_at": "2023-09-21T01:11:56.077Z",
+        "updated_at": "2023-09-21T03:11:09.252Z"
+      },
+      {
+        "id": "262f437c-643a-45db-965a-58a37b339705",
+        "created_at": "2023-09-20T23:39:08.348Z",
+        "updated_at": "2023-09-21T10:10:33.123Z"
+      },
+      {
+        "id": "bc607682-2553-4801-98c4-8bbae5b6c953",
+        "created_at": "2023-09-20T23:01:01.556Z",
+        "updated_at": "2023-09-21T17:01:53.568Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "d7392116-6ade-46f9-a4c7-6dec75e9630a",
+        "created_at": "2023-09-21T13:12:49.881Z",
+        "updated_at": "2023-09-21T15:43:35.711Z"
+      },
+      {
+        "id": "79a2735e-0f35-44c1-8ecc-bad70b18a2b0",
+        "created_at": "2023-09-21T06:41:26.548Z",
+        "updated_at": "2023-09-21T10:04:19.292Z"
+      },
+      {
+        "id": "bbad2d1a-d5e3-45ca-858f-2f491ea0c70b",
+        "created_at": "2023-09-21T16:49:20.707Z",
+        "updated_at": "2023-09-21T06:11:30.214Z"
+      },
+      {
+        "id": "9db82784-6192-4bbe-9c46-99c5c4ee8f99",
+        "created_at": "2023-09-21T15:56:22.783Z",
+        "updated_at": "2023-09-21T05:19:23.520Z"
+      },
+      {
+        "id": "57f7d4bb-9134-43f8-beb7-a90aabf9bb83",
+        "created_at": "2023-09-21T04:15:07.904Z",
+        "updated_at": "2023-09-20T20:49:40.583Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "376a5133-d56a-49b9-bddb-de74db2ef064",
+        "created_at": "2023-09-21T12:35:46.128Z",
+        "updated_at": "2023-09-21T11:04:38.839Z"
+      },
+      {
+        "id": "5ef770f0-e2f5-4dcd-baa5-f57f45e2a0cd",
+        "created_at": "2023-09-21T03:12:13.796Z",
+        "updated_at": "2023-09-21T01:20:34.203Z"
+      },
+      {
+        "id": "6fba4d72-b411-4429-832a-4dba25bb1b97",
+        "created_at": "2023-09-21T06:43:33.053Z",
+        "updated_at": "2023-09-21T14:07:53.400Z"
+      },
+      {
+        "id": "f3427593-b027-44f3-8030-4fe7b45447f7",
+        "created_at": "2023-09-21T00:10:20.557Z",
+        "updated_at": "2023-09-20T22:11:52.591Z"
+      },
+      {
+        "id": "727f500b-b357-48fa-a75f-1f5c71c0d48c",
+        "created_at": "2023-09-21T09:09:58.087Z",
+        "updated_at": "2023-09-21T03:51:34.516Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "2d75a3af-b1fd-45f3-8e8f-849700cdc529",
+        "created_at": "2023-09-21T09:48:33.037Z",
+        "updated_at": "2023-09-21T08:51:48.231Z"
+      },
+      {
+        "id": "b572b606-8dab-47f2-a674-af8affcf9750",
+        "created_at": "2023-09-21T05:29:57.854Z",
+        "updated_at": "2023-09-21T18:16:00.363Z"
+      },
+      {
+        "id": "54d5ba90-e23d-4f6d-a4ff-d76a618fefac",
+        "created_at": "2023-09-21T14:23:59.003Z",
+        "updated_at": "2023-09-21T05:29:28.696Z"
+      },
+      {
+        "id": "b4e52c06-255f-47fc-b43d-37109ea05680",
+        "created_at": "2023-09-21T11:25:10.185Z",
+        "updated_at": "2023-09-21T17:17:40.454Z"
+      },
+      {
+        "id": "6013a407-b938-43a0-b334-599fc54718ab",
+        "created_at": "2023-09-21T02:10:54.516Z",
+        "updated_at": "2023-09-21T14:34:31.441Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "8381e4ca-f86c-4f00-8062-718e6e37af46",
+        "created_at": "2023-09-20T21:36:13.061Z",
+        "updated_at": "2023-09-20T21:09:09.730Z"
+      },
+      {
+        "id": "0e37ab74-8551-40dd-8689-101a311792be",
+        "created_at": "2023-09-21T03:09:29.428Z",
+        "updated_at": "2023-09-20T19:25:38.092Z"
+      },
+      {
+        "id": "93e4df95-5297-406e-9e2c-2628663773bd",
+        "created_at": "2023-09-20T21:40:00.173Z",
+        "updated_at": "2023-09-21T06:29:36.063Z"
+      },
+      {
+        "id": "871a793b-5f97-4efd-a264-46e7e2b91de3",
+        "created_at": "2023-09-21T15:44:26.128Z",
+        "updated_at": "2023-09-21T12:39:39.407Z"
+      },
+      {
+        "id": "375e2169-7b34-458d-bee6-42820efb436d",
+        "created_at": "2023-09-21T16:40:52.079Z",
+        "updated_at": "2023-09-20T22:31:34.973Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "621d2682-e687-45ea-ac9c-9d88dc1cdb52",
+        "created_at": "2023-09-21T07:52:45.071Z",
+        "updated_at": "2023-09-21T09:14:04.661Z"
+      },
+      {
+        "id": "d8c63ba6-7f46-4251-81c8-586d045dba61",
+        "created_at": "2023-09-21T09:58:11.786Z",
+        "updated_at": "2023-09-21T17:55:23.827Z"
+      },
+      {
+        "id": "0125cf6d-addf-4a0f-9286-52ae377d0ea5",
+        "created_at": "2023-09-21T07:24:55.093Z",
+        "updated_at": "2023-09-20T23:26:07.861Z"
+      },
+      {
+        "id": "2de49f83-eb09-4151-b2e8-04fc3d66f840",
+        "created_at": "2023-09-21T01:36:29.307Z",
+        "updated_at": "2023-09-21T01:20:01.509Z"
+      },
+      {
+        "id": "20e0bee8-f647-4ae8-910d-8c1683c82ea0",
+        "created_at": "2023-09-21T14:25:18.765Z",
+        "updated_at": "2023-09-21T13:14:42.104Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "60f89fa0-05b0-48c9-ba11-e582e2e107a3",
+        "created_at": "2023-09-21T14:25:52.399Z",
+        "updated_at": "2023-09-20T20:58:25.536Z"
+      },
+      {
+        "id": "502110ee-49c0-4831-8914-f867751c3ee1",
+        "created_at": "2023-09-21T12:31:05.627Z",
+        "updated_at": "2023-09-21T08:43:57.612Z"
+      },
+      {
+        "id": "8c86a16a-ebcd-401a-8d8b-911f2fcf7644",
+        "created_at": "2023-09-21T13:10:19.630Z",
+        "updated_at": "2023-09-21T08:11:34.270Z"
+      },
+      {
+        "id": "7d082fdf-f90a-48c1-9aa7-f5f11a9c74d1",
+        "created_at": "2023-09-21T07:46:37.318Z",
+        "updated_at": "2023-09-21T11:27:11.911Z"
+      },
+      {
+        "id": "2411aaa0-b1eb-435e-ad5b-f5f59feac218",
+        "created_at": "2023-09-20T22:56:32.449Z",
+        "updated_at": "2023-09-21T03:59:14.288Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "6e538bb3-d0b6-4317-8822-020032a2d7d1",
+        "created_at": "2023-09-20T21:40:16.865Z",
+        "updated_at": "2023-09-21T05:09:56.649Z"
+      },
+      {
+        "id": "f0ed3b7e-e1bd-420c-bdf8-77dab1095078",
+        "created_at": "2023-09-21T07:05:31.882Z",
+        "updated_at": "2023-09-21T08:46:15.637Z"
+      },
+      {
+        "id": "eb49cd7a-6bc6-4f04-b43c-cae26b163671",
+        "created_at": "2023-09-20T22:02:41.104Z",
+        "updated_at": "2023-09-21T09:43:04.259Z"
+      },
+      {
+        "id": "4c18ae01-a2bd-412a-811e-4a18e455d2e5",
+        "created_at": "2023-09-21T13:33:02.262Z",
+        "updated_at": "2023-09-21T09:57:09.320Z"
+      },
+      {
+        "id": "24ed6010-fb3e-4211-9f94-76c939b2ce11",
+        "created_at": "2023-09-21T03:46:07.578Z",
+        "updated_at": "2023-09-21T18:22:21.591Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "727b9401-c179-4413-af85-4d406055c484",
+        "email": "Marjolaine_Lang72@roq.tech",
+        "firstName": "Harmon",
+        "lastName": "Will",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/404.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4962092d-9893-48d3-a219-eb1ed27a2cc4",
+        "email": "Steve85@roq.tech",
+        "firstName": "Savanna",
+        "lastName": "Berge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1102.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "71ec4cd8-7e78-4cec-897c-a61d363662fe",
+        "email": "Enrico.Padberg@roq.tech",
+        "firstName": "Delia",
+        "lastName": "Bergnaum",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64454269",
+        "tenantId": null
+      },
+      {
+        "reference": "8edd4870-d744-4e4b-b1eb-871f955c40dd",
+        "email": "Brian.Adams@roq.tech",
+        "firstName": "Jeremie",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78400158",
+        "tenantId": null
+      },
+      {
+        "reference": "0ff026cf-4317-4b88-a503-206388b1f724",
+        "email": "Nichole.Lehner20@roq.tech",
+        "firstName": "Fiona",
+        "lastName": "Kuhlman-Bradtke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38102748",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_status": [
+      {
+        "id": "f85a0fd0-0ed3-456d-b373-20ae6b0dc195",
+        "created_at": "2023-09-21T03:21:02.935Z",
+        "updated_at": "2023-09-21T13:54:23.397Z"
+      },
+      {
+        "id": "a9b73b9b-c1ec-4b90-a133-47d66f4293f9",
+        "created_at": "2023-09-20T21:54:20.180Z",
+        "updated_at": "2023-09-20T21:06:18.011Z"
+      },
+      {
+        "id": "6ea962c4-b821-47d0-83da-bef1b62a7b24",
+        "created_at": "2023-09-21T02:13:16.498Z",
+        "updated_at": "2023-09-21T08:17:48.106Z"
+      },
+      {
+        "id": "70c9d10d-b29b-4e89-b72c-8daa8273abda",
+        "created_at": "2023-09-21T05:15:54.924Z",
+        "updated_at": "2023-09-21T05:52:24.890Z"
+      },
+      {
+        "id": "ed7534dd-3cf0-449a-a308-386dc881b99c",
+        "created_at": "2023-09-20T20:52:31.948Z",
+        "updated_at": "2023-09-21T12:55:00.245Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "b76d19bf-9014-4919-99de-8b180f96c8a5",
+        "created_at": "2023-09-21T05:03:52.248Z",
+        "updated_at": "2023-09-21T02:29:59.741Z"
+      },
+      {
+        "id": "ad8d23fa-6846-4f16-954e-b10e5d02cc2d",
+        "created_at": "2023-09-21T09:22:00.402Z",
+        "updated_at": "2023-09-21T08:07:15.997Z"
+      },
+      {
+        "id": "df446ab6-5f24-463b-b90a-eeaeef7d0b54",
+        "created_at": "2023-09-21T06:51:18.145Z",
+        "updated_at": "2023-09-21T09:07:33.116Z"
+      },
+      {
+        "id": "237d305c-4bc5-47f6-a31a-be15f1cd0b87",
+        "created_at": "2023-09-21T10:37:43.840Z",
+        "updated_at": "2023-09-21T07:32:40.887Z"
+      },
+      {
+        "id": "3fea5586-8c2c-4e8f-853e-8f9567efcc7e",
+        "created_at": "2023-09-21T02:29:39.062Z",
+        "updated_at": "2023-09-21T09:36:19.657Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "d0c6adba-48d5-408b-93ca-7e8338be2261",
+        "created_at": "2023-09-20T20:33:13.218Z",
+        "updated_at": "2023-09-21T03:17:15.721Z"
+      },
+      {
+        "id": "099d2cb7-e1a4-442c-b791-b77bed56c733",
+        "created_at": "2023-09-21T00:50:40.989Z",
+        "updated_at": "2023-09-21T00:06:29.840Z"
+      },
+      {
+        "id": "56e3fa74-8aa2-440f-8d59-651bf4bb0319",
+        "created_at": "2023-09-21T17:09:36.841Z",
+        "updated_at": "2023-09-21T06:16:55.509Z"
+      },
+      {
+        "id": "fcaa1e30-50f9-4036-a4da-7bd958fcebcb",
+        "created_at": "2023-09-21T11:28:15.780Z",
+        "updated_at": "2023-09-20T18:50:05.471Z"
+      },
+      {
+        "id": "2176ed76-0652-4c87-bde6-7c841733c24d",
+        "created_at": "2023-09-21T03:38:14.476Z",
+        "updated_at": "2023-09-21T13:10:46.714Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "fa4ab5fe-ebd8-43bc-b7ce-edae776b9e16",
+        "created_at": "2023-09-21T06:30:34.333Z",
+        "updated_at": "2023-09-21T06:39:02.813Z"
+      },
+      {
+        "id": "92178ac5-af91-4603-9cc2-58e5a4aad042",
+        "created_at": "2023-09-20T19:37:23.929Z",
+        "updated_at": "2023-09-21T07:00:14.317Z"
+      },
+      {
+        "id": "5a1c8032-58f9-4683-a01f-2dc38f4ac770",
+        "created_at": "2023-09-21T05:26:08.423Z",
+        "updated_at": "2023-09-21T07:57:18.200Z"
+      },
+      {
+        "id": "03eb215f-7932-47b8-9ccf-ad8588f3d3c8",
+        "created_at": "2023-09-21T05:00:52.325Z",
+        "updated_at": "2023-09-21T07:23:48.561Z"
+      },
+      {
+        "id": "1db6c008-d9b0-475b-8495-ff0ed7841242",
+        "created_at": "2023-09-21T18:34:53.883Z",
+        "updated_at": "2023-09-21T09:54:19.422Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "3759d31e-7301-4edd-a09c-2add967c7f18",
+        "created_at": "2023-09-21T06:25:42.397Z",
+        "updated_at": "2023-09-21T12:51:37.781Z"
+      },
+      {
+        "id": "12222556-18db-45b3-95ba-0de50a76fecb",
+        "created_at": "2023-09-20T23:25:18.369Z",
+        "updated_at": "2023-09-21T16:17:32.710Z"
+      },
+      {
+        "id": "020afaa4-f757-49cb-87a6-6d84ca2e5bcb",
+        "created_at": "2023-09-21T14:03:42.764Z",
+        "updated_at": "2023-09-21T04:30:12.297Z"
+      },
+      {
+        "id": "bd70248b-bf0a-41e7-8fea-7bbcf107a967",
+        "created_at": "2023-09-21T10:51:30.895Z",
+        "updated_at": "2023-09-21T07:15:00.241Z"
+      },
+      {
+        "id": "2e7b42dc-061a-41a1-84b8-1c3826beab73",
+        "created_at": "2023-09-21T04:12:23.649Z",
+        "updated_at": "2023-09-21T05:46:05.374Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "decca1ce-04f8-4f49-b655-3fab0d69f080",
+        "created_at": "2023-09-21T13:04:44.637Z",
+        "updated_at": "2023-09-21T02:31:30.244Z"
+      },
+      {
+        "id": "e92150bf-1cd2-4a82-9f3c-0926470140df",
+        "created_at": "2023-09-21T10:17:01.318Z",
+        "updated_at": "2023-09-21T09:32:32.008Z"
+      },
+      {
+        "id": "ad3b1924-e4aa-49fd-9bb4-97828d80723d",
+        "created_at": "2023-09-21T03:51:52.476Z",
+        "updated_at": "2023-09-21T14:20:54.367Z"
+      },
+      {
+        "id": "09f1d95e-d4d5-49d2-a539-64f966d20b48",
+        "created_at": "2023-09-21T06:34:31.535Z",
+        "updated_at": "2023-09-21T02:37:52.245Z"
+      },
+      {
+        "id": "f14d4585-db8d-4314-9d69-8ac41a710b27",
+        "created_at": "2023-09-21T09:45:33.185Z",
+        "updated_at": "2023-09-21T07:32:39.294Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "a4d55c3c-2ace-495f-87a7-71aac0673198",
+        "created_at": "2023-09-21T15:11:59.195Z",
+        "updated_at": "2023-09-21T07:42:14.707Z"
+      },
+      {
+        "id": "53e3fc8f-5954-4c54-a86a-07342785ec2d",
+        "created_at": "2023-09-21T04:19:31.141Z",
+        "updated_at": "2023-09-21T18:15:02.144Z"
+      },
+      {
+        "id": "7ca063cb-835e-42f9-ac3d-69b360d851cd",
+        "created_at": "2023-09-21T13:53:44.279Z",
+        "updated_at": "2023-09-20T23:33:06.693Z"
+      },
+      {
+        "id": "78f20a8e-8e3a-4b1e-81ab-4474dbfa96ce",
+        "created_at": "2023-09-21T15:58:00.505Z",
+        "updated_at": "2023-09-21T12:43:22.760Z"
+      },
+      {
+        "id": "ca84ecf2-cc96-4932-abb2-6e54b4022162",
+        "created_at": "2023-09-21T18:22:07.421Z",
+        "updated_at": "2023-09-20T22:30:42.673Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "50299b45-ce3f-434b-ba93-3ee20136dbbd",
+        "created_at": "2023-09-20T19:33:01.860Z",
+        "updated_at": "2023-09-21T16:25:02.797Z"
+      },
+      {
+        "id": "b7bd0205-782d-4293-a20c-e17be6fb9ccf",
+        "created_at": "2023-09-20T19:23:37.705Z",
+        "updated_at": "2023-09-21T16:53:10.010Z"
+      },
+      {
+        "id": "01250896-46b4-4de9-95c8-ead8297a956e",
+        "created_at": "2023-09-20T22:41:03.651Z",
+        "updated_at": "2023-09-21T05:29:15.502Z"
+      },
+      {
+        "id": "e6373be5-e88e-4a40-8838-66766b544f55",
+        "created_at": "2023-09-20T22:32:32.906Z",
+        "updated_at": "2023-09-21T13:15:06.440Z"
+      },
+      {
+        "id": "531fe65a-ebb0-4543-ad77-b7fb9c787eb4",
+        "created_at": "2023-09-21T02:12:18.305Z",
+        "updated_at": "2023-09-21T12:04:41.185Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "57e2ddfd-fac2-49ba-a0cf-a89f201172e9",
+        "created_at": "2023-09-20T21:16:34.611Z",
+        "updated_at": "2023-09-21T00:41:29.599Z"
+      },
+      {
+        "id": "40185f1e-925e-4bf6-8fd7-39f87f3f7441",
+        "created_at": "2023-09-21T13:02:42.861Z",
+        "updated_at": "2023-09-21T18:14:58.243Z"
+      },
+      {
+        "id": "c05c4d99-71d4-4c8f-9db4-45667cfdb93e",
+        "created_at": "2023-09-20T20:29:10.526Z",
+        "updated_at": "2023-09-21T07:32:40.252Z"
+      },
+      {
+        "id": "9dca9dc7-fe5c-448d-88a7-85a8be805404",
+        "created_at": "2023-09-21T06:59:31.477Z",
+        "updated_at": "2023-09-21T04:15:45.171Z"
+      },
+      {
+        "id": "f4e2e5aa-696e-4154-a4e3-3ac8aaadd7d5",
+        "created_at": "2023-09-21T05:23:55.242Z",
+        "updated_at": "2023-09-20T19:14:29.436Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "ce244891-45c3-4deb-98af-3dbd9b2123e5",
+        "created_at": "2023-09-21T10:52:28.033Z",
+        "updated_at": "2023-09-21T08:33:13.651Z"
+      },
+      {
+        "id": "4f088c3a-22a8-484f-8118-4dd19c395c06",
+        "created_at": "2023-09-21T10:46:13.488Z",
+        "updated_at": "2023-09-21T02:11:06.446Z"
+      },
+      {
+        "id": "4f8ab3d6-d84a-4935-9a18-87af610d6434",
+        "created_at": "2023-09-20T22:53:06.796Z",
+        "updated_at": "2023-09-21T09:51:14.274Z"
+      },
+      {
+        "id": "59debf47-9777-4bf0-bdea-cd4a0732dbe3",
+        "created_at": "2023-09-21T05:52:47.611Z",
+        "updated_at": "2023-09-21T05:56:44.744Z"
+      },
+      {
+        "id": "c9427394-2bbb-4ae0-8776-e822084c2ae0",
+        "created_at": "2023-09-20T19:09:13.897Z",
+        "updated_at": "2023-09-21T11:24:18.998Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3f7bced0-bdf5-4680-ad5d-51becd5e0d60",
+        "email": "Johnny_Terry49@roq.tech",
+        "firstName": "Taya",
+        "lastName": "Schmidt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/253.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1b513f26-6e8c-4c3b-8f44-7d89c0a9a5f4",
+        "email": "Milton.Cole@roq.tech",
+        "firstName": "Brooks",
+        "lastName": "Weissnat",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/891.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9c84f22f-7fef-4c21-a7b4-f71f94ce2e41",
+        "email": "Alexane25@roq.tech",
+        "firstName": "Tillman",
+        "lastName": "Erdman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83108162",
+        "tenantId": null
+      },
+      {
+        "reference": "f51daa95-9019-43b5-9d87-d448d9e95dd0",
+        "email": "Tom.Pagac-Hyatt@roq.tech",
+        "firstName": "Lorenz",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63849034",
+        "tenantId": null
+      },
+      {
+        "reference": "d716f3d8-e194-4f23-8bc7-03adbc476627",
+        "email": "Guy_Altenwerth@roq.tech",
+        "firstName": "Mitchel",
+        "lastName": "Emard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/591.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_status": [
+      {
+        "id": "6b21e0e1-5a30-4e09-85bb-dbc7bf566a4a",
+        "created_at": "2023-09-21T07:41:45.029Z",
+        "updated_at": "2023-09-21T13:02:27.860Z"
+      },
+      {
+        "id": "34c4bf26-df3d-4871-a44b-4ef8899551a8",
+        "created_at": "2023-09-21T12:27:12.414Z",
+        "updated_at": "2023-09-21T00:27:46.623Z"
+      },
+      {
+        "id": "30501a34-b18a-43db-b815-153c585119dc",
+        "created_at": "2023-09-21T09:52:24.713Z",
+        "updated_at": "2023-09-21T05:10:04.203Z"
+      },
+      {
+        "id": "6373cffe-ebcf-43b0-ba90-935275b481ab",
+        "created_at": "2023-09-21T14:49:21.095Z",
+        "updated_at": "2023-09-21T04:26:59.476Z"
+      },
+      {
+        "id": "3a5c57cc-8552-4fad-91a4-d90dd1dd4e92",
+        "created_at": "2023-09-21T11:25:04.101Z",
+        "updated_at": "2023-09-21T04:26:35.870Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "afcf5dde-992c-40c3-a04e-0f62632b99d1",
+        "created_at": "2023-09-20T21:53:16.877Z",
+        "updated_at": "2023-09-21T02:02:03.833Z"
+      },
+      {
+        "id": "0830543f-1269-4fe6-a052-95390fe089bd",
+        "created_at": "2023-09-21T03:25:48.485Z",
+        "updated_at": "2023-09-21T15:04:24.467Z"
+      },
+      {
+        "id": "b9127164-fc74-4c54-b45d-03a213886cde",
+        "created_at": "2023-09-21T09:57:17.824Z",
+        "updated_at": "2023-09-21T16:08:42.507Z"
+      },
+      {
+        "id": "91ed69d0-c6e9-43d0-a545-e296e61d0f65",
+        "created_at": "2023-09-21T13:28:47.226Z",
+        "updated_at": "2023-09-21T07:17:05.675Z"
+      },
+      {
+        "id": "4c793a45-f866-4f23-be08-4f6f378e6fc7",
+        "created_at": "2023-09-21T12:21:34.629Z",
+        "updated_at": "2023-09-21T04:43:33.815Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "3b61a152-a288-4de8-b796-d228f3006c01",
+        "created_at": "2023-09-21T03:30:08.769Z",
+        "updated_at": "2023-09-21T10:32:49.109Z"
+      },
+      {
+        "id": "97d857c9-7b8c-4457-bea4-09e00efe791b",
+        "created_at": "2023-09-21T08:43:51.787Z",
+        "updated_at": "2023-09-21T11:36:46.493Z"
+      },
+      {
+        "id": "cc6f7c7e-1852-492b-8d4b-1ebee772c593",
+        "created_at": "2023-09-21T05:41:57.840Z",
+        "updated_at": "2023-09-21T05:44:14.041Z"
+      },
+      {
+        "id": "966957db-ee19-4f4a-a61b-70b4822cb736",
+        "created_at": "2023-09-21T02:20:51.275Z",
+        "updated_at": "2023-09-21T15:41:49.690Z"
+      },
+      {
+        "id": "6093c3ed-4222-46e6-a720-447b5594b3fc",
+        "created_at": "2023-09-21T09:41:11.414Z",
+        "updated_at": "2023-09-21T16:54:35.426Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "0b602b8c-55c7-43ee-aa7d-6a19f9463da8",
+        "created_at": "2023-09-21T14:39:57.029Z",
+        "updated_at": "2023-09-21T09:45:13.058Z"
+      },
+      {
+        "id": "e10a9689-9d5e-4201-b645-6af8769aa0c0",
+        "created_at": "2023-09-21T06:16:38.455Z",
+        "updated_at": "2023-09-21T13:51:06.346Z"
+      },
+      {
+        "id": "c954bbca-452f-4074-be36-66537407c747",
+        "created_at": "2023-09-21T12:14:41.006Z",
+        "updated_at": "2023-09-21T00:40:41.519Z"
+      },
+      {
+        "id": "dd4311fc-7ada-4226-862f-5f40e12f0940",
+        "created_at": "2023-09-21T05:07:03.058Z",
+        "updated_at": "2023-09-21T03:39:20.882Z"
+      },
+      {
+        "id": "ca3872d7-7061-4f0d-925e-e01481919be7",
+        "created_at": "2023-09-21T16:45:31.036Z",
+        "updated_at": "2023-09-21T18:14:16.253Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "8dc6a6fd-6aa1-4bcc-8529-8fd23a4d1c3f",
+        "created_at": "2023-09-21T14:40:31.962Z",
+        "updated_at": "2023-09-21T07:46:08.836Z"
+      },
+      {
+        "id": "d9178dae-f433-4ac2-96ad-f3f6cb2c3843",
+        "created_at": "2023-09-21T03:19:16.850Z",
+        "updated_at": "2023-09-21T11:01:42.600Z"
+      },
+      {
+        "id": "ad07e3ab-ef41-4194-817b-8083014ee2bf",
+        "created_at": "2023-09-21T11:58:37.210Z",
+        "updated_at": "2023-09-20T22:00:43.750Z"
+      },
+      {
+        "id": "0a6f462a-8170-4a18-98c9-9ee53e4a9d33",
+        "created_at": "2023-09-21T10:19:06.667Z",
+        "updated_at": "2023-09-21T13:26:42.738Z"
+      },
+      {
+        "id": "37af5fe0-76be-4e08-9c99-8a70f4a805b7",
+        "created_at": "2023-09-21T05:39:53.163Z",
+        "updated_at": "2023-09-21T16:49:19.942Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "08e6e43b-f069-4565-bdda-3bbc831f9e1f",
+        "created_at": "2023-09-21T11:57:23.778Z",
+        "updated_at": "2023-09-21T00:29:30.680Z"
+      },
+      {
+        "id": "72d538fa-3d87-426f-b6b0-73c32458d671",
+        "created_at": "2023-09-21T10:57:02.573Z",
+        "updated_at": "2023-09-21T12:44:27.394Z"
+      },
+      {
+        "id": "92fce3a5-4bd1-4cab-b7f3-288dd4efbfeb",
+        "created_at": "2023-09-21T10:29:10.159Z",
+        "updated_at": "2023-09-21T03:20:32.710Z"
+      },
+      {
+        "id": "654581ef-5181-42fc-949f-a23643bc0a38",
+        "created_at": "2023-09-21T03:30:01.523Z",
+        "updated_at": "2023-09-21T08:36:43.767Z"
+      },
+      {
+        "id": "99f457e8-7025-4a24-856e-c2f7b8a1389e",
+        "created_at": "2023-09-21T03:31:02.610Z",
+        "updated_at": "2023-09-21T18:16:30.544Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "b6be0e48-8c1b-4acf-baf3-72b63f8e1c05",
+        "created_at": "2023-09-20T22:57:19.676Z",
+        "updated_at": "2023-09-21T11:14:18.080Z"
+      },
+      {
+        "id": "15b96650-bc05-4240-8899-e585daeb39e0",
+        "created_at": "2023-09-21T18:21:52.862Z",
+        "updated_at": "2023-09-21T04:09:44.884Z"
+      },
+      {
+        "id": "dfee2a2c-3330-416d-b6fb-efefb66d1a4c",
+        "created_at": "2023-09-21T07:36:50.149Z",
+        "updated_at": "2023-09-20T19:24:30.499Z"
+      },
+      {
+        "id": "e89c680b-f254-4a65-aa9b-1442b125113e",
+        "created_at": "2023-09-21T09:34:24.091Z",
+        "updated_at": "2023-09-21T07:47:56.584Z"
+      },
+      {
+        "id": "427aac31-ce3a-4d2b-882c-fa6f56216fa4",
+        "created_at": "2023-09-21T00:45:45.359Z",
+        "updated_at": "2023-09-21T05:48:26.689Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "f0232e6e-7478-4af4-8ee1-f41743d250ce",
+        "created_at": "2023-09-21T10:07:08.204Z",
+        "updated_at": "2023-09-21T16:51:36.258Z"
+      },
+      {
+        "id": "a8cdebf8-62d0-4b76-a387-bf3055a095bc",
+        "created_at": "2023-09-21T12:24:23.809Z",
+        "updated_at": "2023-09-21T17:09:20.357Z"
+      },
+      {
+        "id": "b3ab386f-1928-47df-b83a-f3d4485be1d5",
+        "created_at": "2023-09-21T02:01:24.527Z",
+        "updated_at": "2023-09-21T03:34:56.844Z"
+      },
+      {
+        "id": "2e95aa18-f5f5-43fe-914e-62204b00e8a0",
+        "created_at": "2023-09-21T10:44:55.982Z",
+        "updated_at": "2023-09-20T22:24:14.285Z"
+      },
+      {
+        "id": "e9295713-697e-4b33-8933-f78544a9c3b7",
+        "created_at": "2023-09-21T18:30:36.080Z",
+        "updated_at": "2023-09-21T10:02:03.789Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "f4103217-cd51-4547-97f3-10c88cf8c30c",
+        "created_at": "2023-09-21T16:43:52.514Z",
+        "updated_at": "2023-09-21T18:12:45.811Z"
+      },
+      {
+        "id": "e94110d2-618b-4817-8843-eb5450f71abe",
+        "created_at": "2023-09-21T07:10:58.174Z",
+        "updated_at": "2023-09-21T17:57:06.773Z"
+      },
+      {
+        "id": "9437e9bf-d48a-4c84-8037-beda0c02a1c3",
+        "created_at": "2023-09-21T00:42:12.946Z",
+        "updated_at": "2023-09-21T06:25:33.740Z"
+      },
+      {
+        "id": "e7856ad5-e23d-4666-b592-d1f8a353bec3",
+        "created_at": "2023-09-21T08:31:49.845Z",
+        "updated_at": "2023-09-21T06:12:51.712Z"
+      },
+      {
+        "id": "a94da28f-9cb7-4add-a036-044368a04eca",
+        "created_at": "2023-09-21T15:23:55.489Z",
+        "updated_at": "2023-09-21T08:22:38.143Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "48657f7c-3171-4bd5-be9e-be6af00ab192",
+        "created_at": "2023-09-20T23:25:14.732Z",
+        "updated_at": "2023-09-21T01:51:16.405Z"
+      },
+      {
+        "id": "107c03f6-2201-4e06-9b6d-515a4295cdac",
+        "created_at": "2023-09-21T12:47:31.124Z",
+        "updated_at": "2023-09-20T23:28:00.390Z"
+      },
+      {
+        "id": "10e0f203-5885-40bd-b6ab-b974e72c1c6f",
+        "created_at": "2023-09-21T07:47:16.482Z",
+        "updated_at": "2023-09-21T00:34:46.025Z"
+      },
+      {
+        "id": "6b614967-28c7-4fbe-a4b4-ee74729d8fe2",
+        "created_at": "2023-09-21T03:56:29.746Z",
+        "updated_at": "2023-09-21T04:09:37.158Z"
+      },
+      {
+        "id": "424ab83a-7dca-4042-af28-b4e040a2c225",
+        "created_at": "2023-09-21T08:45:38.210Z",
+        "updated_at": "2023-09-21T09:23:55.252Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "aeb1f630-06d7-425a-8d3f-6016fe36120e",
+        "email": "Pedro_Adams@roq.tech",
+        "firstName": "Alanis",
+        "lastName": "Stiedemann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1148.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "12699367-59b8-44bd-bf5d-876684f52e98",
+        "email": "Ben_Rippin28@roq.tech",
+        "firstName": "Edwardo",
+        "lastName": "Morar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1227.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c32f9c82-e7da-46ff-b8af-bb7a589352cb",
+        "email": "Abdullah.Williamson@roq.tech",
+        "firstName": "Terry",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88888388",
+        "tenantId": null
+      },
+      {
+        "reference": "8945b730-7e15-489b-a578-c91d5366dafb",
+        "email": "Baylee_Gislason@roq.tech",
+        "firstName": "Vena",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74975682",
+        "tenantId": null
+      },
+      {
+        "reference": "567abafa-d89a-4f97-a0d3-223ccdaef07b",
+        "email": "Tito_Feeney46@roq.tech",
+        "firstName": "Adella",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76122127",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_status": [
+      {
+        "id": "293c4e43-cc94-47a0-bfbf-45fa1dd7b0cf",
+        "created_at": "2023-09-21T11:59:00.242Z",
+        "updated_at": "2023-09-21T06:10:12.706Z"
+      },
+      {
+        "id": "91f0a463-8118-4573-958f-0750c75ad404",
+        "created_at": "2023-09-20T20:04:30.902Z",
+        "updated_at": "2023-09-21T02:12:38.845Z"
+      },
+      {
+        "id": "ac1a7657-5ef1-4795-bad8-174e1d3fc5a7",
+        "created_at": "2023-09-21T00:59:25.992Z",
+        "updated_at": "2023-09-21T07:46:27.529Z"
+      },
+      {
+        "id": "634619c8-bf2f-473c-886a-7af699f8e729",
+        "created_at": "2023-09-21T01:31:01.867Z",
+        "updated_at": "2023-09-20T20:16:44.809Z"
+      },
+      {
+        "id": "f0f9513d-710d-4cf7-b25c-c27b2b0962e0",
+        "created_at": "2023-09-21T12:28:19.909Z",
+        "updated_at": "2023-09-20T19:27:10.625Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "60b965ae-a9af-4137-81b8-b8aaddb77f5e",
+        "created_at": "2023-09-20T22:11:22.963Z",
+        "updated_at": "2023-09-21T03:05:14.493Z"
+      },
+      {
+        "id": "38e30edd-d1da-4402-8179-bcc456c738c1",
+        "created_at": "2023-09-21T11:40:29.859Z",
+        "updated_at": "2023-09-20T22:46:02.419Z"
+      },
+      {
+        "id": "ad9c8145-b09b-42d3-8837-6ae2343ed9ac",
+        "created_at": "2023-09-21T11:25:28.973Z",
+        "updated_at": "2023-09-21T17:56:36.518Z"
+      },
+      {
+        "id": "1402dfd6-ab14-420e-8c7b-149aeb46fd80",
+        "created_at": "2023-09-21T18:36:45.220Z",
+        "updated_at": "2023-09-21T05:09:53.501Z"
+      },
+      {
+        "id": "74c72d98-9c23-4bfd-a896-d483c09f089e",
+        "created_at": "2023-09-21T02:17:59.945Z",
+        "updated_at": "2023-09-21T13:14:49.096Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "37e10e82-f4db-44ba-a7dc-702e08114467",
+        "created_at": "2023-09-21T18:10:27.117Z",
+        "updated_at": "2023-09-21T17:23:29.247Z"
+      },
+      {
+        "id": "b60ae106-9215-4f01-a312-6b72fe400522",
+        "created_at": "2023-09-21T04:36:45.607Z",
+        "updated_at": "2023-09-20T23:19:43.846Z"
+      },
+      {
+        "id": "81d36d8d-e566-4ca9-8b7b-a6fc940e0b21",
+        "created_at": "2023-09-21T06:20:49.111Z",
+        "updated_at": "2023-09-21T15:00:53.393Z"
+      },
+      {
+        "id": "e884fc01-638f-4ea5-872a-f3e708f30844",
+        "created_at": "2023-09-20T22:23:01.346Z",
+        "updated_at": "2023-09-21T11:33:56.409Z"
+      },
+      {
+        "id": "75ee2da5-b94e-4ad6-9903-99a7492fcecb",
+        "created_at": "2023-09-21T11:25:10.868Z",
+        "updated_at": "2023-09-21T16:01:55.585Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "5b0c3b79-2c01-4261-a17b-387a87809f7c",
+        "created_at": "2023-09-21T09:29:09.122Z",
+        "updated_at": "2023-09-21T15:23:35.018Z"
+      },
+      {
+        "id": "d14a7071-9583-40bc-8dc8-a62c4862a818",
+        "created_at": "2023-09-21T03:32:46.211Z",
+        "updated_at": "2023-09-20T23:03:29.986Z"
+      },
+      {
+        "id": "b0f5f1e7-a440-4add-a1a2-71c434fb3be5",
+        "created_at": "2023-09-21T08:05:14.268Z",
+        "updated_at": "2023-09-20T19:25:37.091Z"
+      },
+      {
+        "id": "ca431e02-7ff6-4d01-97a9-12a2e3a8970a",
+        "created_at": "2023-09-21T05:44:13.396Z",
+        "updated_at": "2023-09-21T00:04:33.534Z"
+      },
+      {
+        "id": "6750dd1a-4fcb-48f9-9a3c-fd7414e116f4",
+        "created_at": "2023-09-20T20:17:19.315Z",
+        "updated_at": "2023-09-21T14:24:46.797Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "d0b6bca1-78a9-4aeb-8a93-3fc91765fd57",
+        "created_at": "2023-09-21T08:34:15.763Z",
+        "updated_at": "2023-09-21T02:59:11.174Z"
+      },
+      {
+        "id": "6afbe153-2c8c-4c30-af6b-de4fe8ad87fe",
+        "created_at": "2023-09-21T08:05:45.750Z",
+        "updated_at": "2023-09-21T02:57:05.887Z"
+      },
+      {
+        "id": "7178aa79-391b-43ff-944c-71feafda465a",
+        "created_at": "2023-09-20T22:22:46.330Z",
+        "updated_at": "2023-09-21T03:13:45.516Z"
+      },
+      {
+        "id": "de7a6582-59d4-4461-9a32-893ec51dc739",
+        "created_at": "2023-09-21T01:37:53.291Z",
+        "updated_at": "2023-09-21T01:51:55.651Z"
+      },
+      {
+        "id": "26e260ed-35b1-4645-95a7-20af73247578",
+        "created_at": "2023-09-20T20:19:44.324Z",
+        "updated_at": "2023-09-21T01:54:41.331Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "197032de-40d6-48d7-b320-82d465a5a8ee",
+        "created_at": "2023-09-20T20:51:58.396Z",
+        "updated_at": "2023-09-21T10:51:29.986Z"
+      },
+      {
+        "id": "0e6b564d-df80-4b41-a414-0ef091590ebf",
+        "created_at": "2023-09-21T08:41:11.918Z",
+        "updated_at": "2023-09-20T20:45:00.427Z"
+      },
+      {
+        "id": "b26a0405-9745-4de8-924e-fb6c7cd33d46",
+        "created_at": "2023-09-21T15:33:27.532Z",
+        "updated_at": "2023-09-21T18:33:15.338Z"
+      },
+      {
+        "id": "731d2c28-cae0-4c6b-b4b7-da7a9626baba",
+        "created_at": "2023-09-21T14:24:30.302Z",
+        "updated_at": "2023-09-20T23:16:42.248Z"
+      },
+      {
+        "id": "0f2355b8-cbb0-46f6-9f56-ac99fabb8735",
+        "created_at": "2023-09-21T01:29:47.603Z",
+        "updated_at": "2023-09-20T22:59:11.507Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "a4510d05-e332-463e-95cf-35d520188ba4",
+        "created_at": "2023-09-21T04:47:20.897Z",
+        "updated_at": "2023-09-21T01:01:44.794Z"
+      },
+      {
+        "id": "b29a060d-0b77-4033-9591-5eae9830515a",
+        "created_at": "2023-09-21T11:05:44.887Z",
+        "updated_at": "2023-09-21T05:00:56.941Z"
+      },
+      {
+        "id": "d002e028-9247-4f53-8558-5bf15d43fc20",
+        "created_at": "2023-09-21T05:30:40.305Z",
+        "updated_at": "2023-09-20T21:52:16.844Z"
+      },
+      {
+        "id": "b36f8512-d06a-450f-b994-c55cc7415713",
+        "created_at": "2023-09-21T17:03:30.144Z",
+        "updated_at": "2023-09-21T15:30:56.787Z"
+      },
+      {
+        "id": "8e7bf88e-2714-4749-9345-03fda7f1f960",
+        "created_at": "2023-09-21T18:10:00.022Z",
+        "updated_at": "2023-09-21T01:29:10.181Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "7eff905b-f4de-4cdc-a339-b4bbf9961642",
+        "created_at": "2023-09-20T20:36:39.722Z",
+        "updated_at": "2023-09-21T02:54:00.631Z"
+      },
+      {
+        "id": "fa159f3f-8769-4439-ab7c-e195286ca376",
+        "created_at": "2023-09-21T11:03:30.702Z",
+        "updated_at": "2023-09-21T10:59:48.464Z"
+      },
+      {
+        "id": "c12dc1db-95ef-4691-b8c7-725527beadca",
+        "created_at": "2023-09-21T06:15:04.761Z",
+        "updated_at": "2023-09-21T10:21:44.023Z"
+      },
+      {
+        "id": "e7af67a7-a090-4eca-8fb4-5d3eb24d9c44",
+        "created_at": "2023-09-20T23:15:42.627Z",
+        "updated_at": "2023-09-21T06:19:16.880Z"
+      },
+      {
+        "id": "73bb8440-e9b2-476a-8ecd-8c2dbc3bd941",
+        "created_at": "2023-09-21T13:26:57.436Z",
+        "updated_at": "2023-09-20T20:49:14.805Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "4aad973d-1830-4b2a-8418-f2f75c8ef9b4",
+        "created_at": "2023-09-21T08:47:40.206Z",
+        "updated_at": "2023-09-21T03:50:50.583Z"
+      },
+      {
+        "id": "003577f8-bc2a-43bb-bf21-2bf762757cbf",
+        "created_at": "2023-09-20T22:44:39.371Z",
+        "updated_at": "2023-09-20T19:08:07.463Z"
+      },
+      {
+        "id": "578501e7-6ef4-4bec-a4da-c1408b8428a4",
+        "created_at": "2023-09-20T21:12:29.259Z",
+        "updated_at": "2023-09-21T03:31:08.199Z"
+      },
+      {
+        "id": "ed7f55a0-dab2-489c-ae12-508fa2117c1c",
+        "created_at": "2023-09-20T22:39:21.404Z",
+        "updated_at": "2023-09-21T09:04:50.298Z"
+      },
+      {
+        "id": "95b385d7-55b6-42d9-9934-cf7467867c50",
+        "created_at": "2023-09-21T16:34:11.757Z",
+        "updated_at": "2023-09-21T17:42:20.917Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "e9a9d7ed-3d93-4359-9c98-14ca35d9f30b",
+        "created_at": "2023-09-21T17:47:32.864Z",
+        "updated_at": "2023-09-20T19:43:05.266Z"
+      },
+      {
+        "id": "28387383-ddc8-49d8-9c67-e9dca8ec9de9",
+        "created_at": "2023-09-21T15:05:06.587Z",
+        "updated_at": "2023-09-21T11:21:08.698Z"
+      },
+      {
+        "id": "a9f173e8-1bbe-4189-9909-233416d26290",
+        "created_at": "2023-09-21T10:32:50.586Z",
+        "updated_at": "2023-09-20T22:20:51.858Z"
+      },
+      {
+        "id": "bc23d92d-d59b-411a-b925-fdb8b937e29f",
+        "created_at": "2023-09-21T00:44:19.590Z",
+        "updated_at": "2023-09-20T20:06:09.601Z"
+      },
+      {
+        "id": "bf380c01-b7a7-43cb-a3b3-9d9d0087e695",
+        "created_at": "2023-09-21T01:08:17.759Z",
+        "updated_at": "2023-09-21T04:25:22.877Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "994c96d9-6c2b-49e8-b293-41e6f1e2a4cf",
+        "email": "Wava90@roq.tech",
+        "firstName": "Veronica",
+        "lastName": "Kuphal",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55673314",
+        "tenantId": null
+      },
+      {
+        "reference": "ec3b6b44-4ed2-484d-8657-ac27904a0abc",
+        "email": "Pascale37@roq.tech",
+        "firstName": "Alisha",
+        "lastName": "Mante",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1134.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "54abaff7-9589-476e-8a0d-630f6b656380",
+        "email": "Guadalupe.Zboncak@roq.tech",
+        "firstName": "Dallas",
+        "lastName": "Boyer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/294.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d52dbf57-a134-4c1a-a286-802c994b7f03",
+        "email": "Ubaldo.Herzog35@roq.tech",
+        "firstName": "Lora",
+        "lastName": "Dietrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29259746",
+        "tenantId": null
+      },
+      {
+        "reference": "486d7171-1af7-416f-8b2d-80cb664cb9d4",
+        "email": "Melvina.Bins31@roq.tech",
+        "firstName": "Oleta",
+        "lastName": "Altenwerth-Roob",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/527.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_status": [
+      {
+        "id": "b2f92fa9-2978-4072-98a0-527cbcfdc234",
+        "created_at": "2023-09-21T09:58:19.987Z",
+        "updated_at": "2023-09-21T14:21:20.513Z"
+      },
+      {
+        "id": "fed7feae-1029-41b2-b295-c393f63a26b9",
+        "created_at": "2023-09-21T04:28:10.867Z",
+        "updated_at": "2023-09-21T01:37:36.700Z"
+      },
+      {
+        "id": "3f31503f-fb2b-4952-b61e-d07e7d2ed518",
+        "created_at": "2023-09-21T09:54:55.178Z",
+        "updated_at": "2023-09-21T07:24:19.273Z"
+      },
+      {
+        "id": "e6bafc31-e1c1-443f-8be8-d4a365c5de83",
+        "created_at": "2023-09-21T01:16:00.267Z",
+        "updated_at": "2023-09-21T07:04:24.158Z"
+      },
+      {
+        "id": "346eff3d-e743-4650-809f-4d2cfe0aa6b5",
+        "created_at": "2023-09-21T05:55:41.918Z",
+        "updated_at": "2023-09-21T05:34:55.348Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "95def713-4478-49d7-9277-e718db502d3c",
+        "created_at": "2023-09-21T14:41:29.641Z",
+        "updated_at": "2023-09-21T04:34:28.973Z"
+      },
+      {
+        "id": "bc76459d-7beb-47cb-a718-fee3955504c0",
+        "created_at": "2023-09-21T17:35:07.490Z",
+        "updated_at": "2023-09-21T16:47:56.440Z"
+      },
+      {
+        "id": "664f2807-6a6f-4ea7-8a0c-649f92c284f6",
+        "created_at": "2023-09-21T06:47:52.690Z",
+        "updated_at": "2023-09-21T12:55:57.361Z"
+      },
+      {
+        "id": "21b597e8-05e5-4863-9ea4-144b419317f6",
+        "created_at": "2023-09-21T05:46:40.907Z",
+        "updated_at": "2023-09-21T00:58:36.688Z"
+      },
+      {
+        "id": "3eb6a238-7f47-407d-8917-5a6091c98113",
+        "created_at": "2023-09-20T19:32:52.537Z",
+        "updated_at": "2023-09-20T21:42:23.604Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "c10a68c7-3a5a-495d-bd2b-9b4a70715f7d",
+        "created_at": "2023-09-21T03:11:59.405Z",
+        "updated_at": "2023-09-21T12:17:53.827Z"
+      },
+      {
+        "id": "76ff68d6-ba6b-4297-aeac-197dfb5ed1b1",
+        "created_at": "2023-09-21T06:40:10.625Z",
+        "updated_at": "2023-09-21T05:27:08.196Z"
+      },
+      {
+        "id": "a04f4af9-f77e-4465-8afc-7fbeb11a7575",
+        "created_at": "2023-09-20T20:31:04.573Z",
+        "updated_at": "2023-09-21T10:32:39.174Z"
+      },
+      {
+        "id": "2d9174e1-44a7-4f02-bf42-7ef18d524e46",
+        "created_at": "2023-09-20T19:55:04.731Z",
+        "updated_at": "2023-09-21T06:06:39.791Z"
+      },
+      {
+        "id": "9c5a1313-634c-46b0-893e-c88d0f18bb76",
+        "created_at": "2023-09-20T19:59:34.190Z",
+        "updated_at": "2023-09-21T03:11:57.167Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "3a4d2584-b309-4716-865a-5c04bdbf2eb9",
+        "created_at": "2023-09-21T14:25:58.298Z",
+        "updated_at": "2023-09-21T17:12:19.342Z"
+      },
+      {
+        "id": "7e5780f1-be10-4e9c-8dd1-870fe6f70ca0",
+        "created_at": "2023-09-21T13:43:24.834Z",
+        "updated_at": "2023-09-20T21:41:20.927Z"
+      },
+      {
+        "id": "3a558bbe-4a93-4302-9bea-c517bd887f6c",
+        "created_at": "2023-09-21T13:05:44.722Z",
+        "updated_at": "2023-09-21T08:16:03.145Z"
+      },
+      {
+        "id": "7b7ec8d4-2c26-42fc-82e0-d2dd6dfa8da5",
+        "created_at": "2023-09-21T12:02:48.466Z",
+        "updated_at": "2023-09-21T08:01:44.908Z"
+      },
+      {
+        "id": "6f430ad5-c4d3-4763-bb87-05af652aa682",
+        "created_at": "2023-09-21T12:15:00.667Z",
+        "updated_at": "2023-09-21T01:28:28.083Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "4eb5f436-0ae0-49a3-a2ea-4fa67256ae53",
+        "created_at": "2023-09-21T11:52:24.740Z",
+        "updated_at": "2023-09-21T08:11:04.098Z"
+      },
+      {
+        "id": "20ab2135-785e-4240-aea1-43d662988d16",
+        "created_at": "2023-09-21T13:39:13.839Z",
+        "updated_at": "2023-09-21T05:42:07.885Z"
+      },
+      {
+        "id": "c849e169-f2a0-4838-88f2-69300c71f209",
+        "created_at": "2023-09-20T18:59:48.995Z",
+        "updated_at": "2023-09-21T07:32:13.637Z"
+      },
+      {
+        "id": "3cb2724e-fc64-46f6-ad2f-4c4c49c51a59",
+        "created_at": "2023-09-20T20:02:15.926Z",
+        "updated_at": "2023-09-21T06:46:05.032Z"
+      },
+      {
+        "id": "7e16aaf8-0d97-44de-bce1-9f5f77385c59",
+        "created_at": "2023-09-21T00:45:19.538Z",
+        "updated_at": "2023-09-21T04:57:06.814Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "c4bc001d-c7b2-4086-8e86-de0ffd001efa",
+        "created_at": "2023-09-21T02:29:04.181Z",
+        "updated_at": "2023-09-21T16:40:29.910Z"
+      },
+      {
+        "id": "ca1ff871-7ce2-4040-bf50-241f8ebf2c67",
+        "created_at": "2023-09-21T17:22:51.972Z",
+        "updated_at": "2023-09-21T12:25:29.763Z"
+      },
+      {
+        "id": "fe19474e-54de-43fe-8d18-302876f67e23",
+        "created_at": "2023-09-21T12:18:01.566Z",
+        "updated_at": "2023-09-20T19:46:56.352Z"
+      },
+      {
+        "id": "6d0e32a6-c19e-4058-9899-31ba1fa8e4eb",
+        "created_at": "2023-09-21T14:05:25.931Z",
+        "updated_at": "2023-09-21T07:53:30.256Z"
+      },
+      {
+        "id": "f673757e-3a09-4eed-ae5a-efe82d820b1b",
+        "created_at": "2023-09-20T21:43:41.690Z",
+        "updated_at": "2023-09-21T14:44:04.794Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "186d120a-cd02-48ae-9aa9-0d67a74ff166",
+        "created_at": "2023-09-21T08:34:40.455Z",
+        "updated_at": "2023-09-21T10:54:30.118Z"
+      },
+      {
+        "id": "8f7332a8-6eed-42b6-a388-387bd461666f",
+        "created_at": "2023-09-21T00:42:49.355Z",
+        "updated_at": "2023-09-21T14:58:19.988Z"
+      },
+      {
+        "id": "e8a1c7e9-6e59-46ee-903d-006545890198",
+        "created_at": "2023-09-21T09:06:11.814Z",
+        "updated_at": "2023-09-20T19:27:26.855Z"
+      },
+      {
+        "id": "2b601cdd-c5d1-4eca-a8d3-970b16fc1298",
+        "created_at": "2023-09-21T09:26:00.586Z",
+        "updated_at": "2023-09-21T16:57:23.103Z"
+      },
+      {
+        "id": "a8917fa1-20ef-4b72-bfdc-8360e4c111f6",
+        "created_at": "2023-09-21T14:51:18.086Z",
+        "updated_at": "2023-09-21T14:46:10.435Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "caeebdf1-0424-4370-bc83-52857c9c72ec",
+        "created_at": "2023-09-21T06:55:00.153Z",
+        "updated_at": "2023-09-21T17:07:39.111Z"
+      },
+      {
+        "id": "a5c789d3-e290-46ea-acb7-4a7695987b13",
+        "created_at": "2023-09-21T01:44:21.926Z",
+        "updated_at": "2023-09-21T17:57:41.885Z"
+      },
+      {
+        "id": "01cf653f-0da5-444e-b7ec-7a8ccc7833ea",
+        "created_at": "2023-09-21T03:51:03.832Z",
+        "updated_at": "2023-09-20T21:14:22.880Z"
+      },
+      {
+        "id": "0381fc3e-2b88-4fbb-9e1d-577812780a52",
+        "created_at": "2023-09-21T11:03:40.564Z",
+        "updated_at": "2023-09-21T04:40:50.479Z"
+      },
+      {
+        "id": "a591a93a-8e1c-4ad5-97ec-86e5a3291ecb",
+        "created_at": "2023-09-21T01:22:29.841Z",
+        "updated_at": "2023-09-20T22:24:45.176Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "f3f081af-89a6-4f35-8c6d-961ced20168b",
+        "created_at": "2023-09-21T04:15:04.675Z",
+        "updated_at": "2023-09-21T15:45:33.787Z"
+      },
+      {
+        "id": "3c998e30-36dc-40a0-ac81-c5d144dfbd46",
+        "created_at": "2023-09-21T16:27:11.818Z",
+        "updated_at": "2023-09-20T22:20:35.355Z"
+      },
+      {
+        "id": "6c473435-6995-42d5-a421-71b08af17f13",
+        "created_at": "2023-09-20T22:45:08.470Z",
+        "updated_at": "2023-09-21T01:10:54.400Z"
+      },
+      {
+        "id": "faec9474-ca91-433d-8812-e717161b2773",
+        "created_at": "2023-09-21T08:24:39.183Z",
+        "updated_at": "2023-09-20T22:40:30.522Z"
+      },
+      {
+        "id": "7ed00b40-0688-40fc-a88c-3aa260abbeb6",
+        "created_at": "2023-09-21T04:14:03.423Z",
+        "updated_at": "2023-09-21T16:20:52.653Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "fd0ca511-1bcf-48d8-af7c-76096f846c92",
+        "created_at": "2023-09-21T15:39:52.199Z",
+        "updated_at": "2023-09-20T22:24:42.768Z"
+      },
+      {
+        "id": "777df928-3f13-4f18-a88e-ef3b19ed3f4c",
+        "created_at": "2023-09-21T08:57:25.277Z",
+        "updated_at": "2023-09-21T10:37:50.526Z"
+      },
+      {
+        "id": "8549118b-5d0c-420d-97dc-4890a5c0572e",
+        "created_at": "2023-09-21T05:39:10.263Z",
+        "updated_at": "2023-09-21T13:28:09.491Z"
+      },
+      {
+        "id": "807bd677-a8d9-4f55-a945-61d1d2a92675",
+        "created_at": "2023-09-21T00:00:30.274Z",
+        "updated_at": "2023-09-21T13:49:55.035Z"
+      },
+      {
+        "id": "a4f876b7-0076-48d6-b32d-c905193b32e8",
+        "created_at": "2023-09-20T19:09:31.426Z",
+        "updated_at": "2023-09-21T05:37:25.010Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c7fe9b1e-74d9-4f66-afe7-19a3ce13c82c",
+        "email": "Macie_Volkman91@roq.tech",
+        "firstName": "Sigrid",
+        "lastName": "Jacobs-Toy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/741.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b361242f-9a9a-434c-b97b-fefb9a4efe25",
+        "email": "Leonel.Murphy16@roq.tech",
+        "firstName": "Calista",
+        "lastName": "Hermiston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58359921",
+        "tenantId": null
+      },
+      {
+        "reference": "aa9b918b-e25c-45b0-b712-a5fc3501abdb",
+        "email": "Haylie96@roq.tech",
+        "firstName": "Lauriane",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47505288",
+        "tenantId": null
+      },
+      {
+        "reference": "c6898070-619c-49e6-9743-7141bb44ec9b",
+        "email": "Allison_Rodriguez@roq.tech",
+        "firstName": "Marcos",
+        "lastName": "Hilll",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/112.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "46847733-a034-49e7-8b17-ec7db983841c",
+        "email": "Karlee.Prosacco38@roq.tech",
+        "firstName": "Moshe",
+        "lastName": "Murazik",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1137.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_status": [
+      {
+        "id": "4db79681-2f8f-4fc8-a916-22b65325f157",
+        "created_at": "2023-09-21T05:33:41.138Z",
+        "updated_at": "2023-09-21T18:00:53.111Z"
+      },
+      {
+        "id": "accb4531-ba2b-4207-b9f4-4e022ff0750e",
+        "created_at": "2023-09-20T22:31:04.204Z",
+        "updated_at": "2023-09-21T06:56:46.021Z"
+      },
+      {
+        "id": "5278ffbf-f60e-4588-96d8-b84db33ea919",
+        "created_at": "2023-09-21T13:09:19.797Z",
+        "updated_at": "2023-09-21T03:45:02.999Z"
+      },
+      {
+        "id": "505c2e3f-1f41-4417-bc85-e1f5854ea2a6",
+        "created_at": "2023-09-21T16:34:25.208Z",
+        "updated_at": "2023-09-21T11:00:58.246Z"
+      },
+      {
+        "id": "643a4570-1bba-45c3-a720-ec609a93dade",
+        "created_at": "2023-09-21T02:21:15.759Z",
+        "updated_at": "2023-09-21T07:43:00.227Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "7f34ebc2-b891-4e3f-a756-dcf345df2685",
+        "created_at": "2023-09-20T22:34:00.808Z",
+        "updated_at": "2023-09-20T19:07:35.695Z"
+      },
+      {
+        "id": "915a02c8-3b69-4c5e-8769-0b393f862966",
+        "created_at": "2023-09-21T01:17:05.921Z",
+        "updated_at": "2023-09-21T01:54:10.564Z"
+      },
+      {
+        "id": "4a4e1121-357b-48cb-a18b-5f163e01180f",
+        "created_at": "2023-09-21T10:07:32.889Z",
+        "updated_at": "2023-09-21T13:27:34.341Z"
+      },
+      {
+        "id": "73a59eae-24c5-453c-a9d6-25017cc215c1",
+        "created_at": "2023-09-21T02:46:51.078Z",
+        "updated_at": "2023-09-20T21:36:44.407Z"
+      },
+      {
+        "id": "b8751000-a855-446d-9208-dda83e6b553f",
+        "created_at": "2023-09-21T00:55:55.453Z",
+        "updated_at": "2023-09-21T15:59:48.381Z"
+      }
+    ],
+    "user_notifications": [
+      {
+        "id": "8ee2c635-8ce1-4508-ac35-b78bee0bc723",
+        "created_at": "2023-09-21T17:51:35.124Z",
+        "updated_at": "2023-09-21T05:35:06.717Z"
+      },
+      {
+        "id": "8dfd10ee-13ad-4edd-a216-a2b7ff33574e",
+        "created_at": "2023-09-21T17:51:39.470Z",
+        "updated_at": "2023-09-21T12:17:59.512Z"
+      },
+      {
+        "id": "75d0524c-afcc-4acd-b023-a457841146cc",
+        "created_at": "2023-09-21T09:43:01.522Z",
+        "updated_at": "2023-09-21T12:21:37.903Z"
+      },
+      {
+        "id": "e81cbc6a-47dd-4c36-b386-245c57300185",
+        "created_at": "2023-09-20T22:46:44.237Z",
+        "updated_at": "2023-09-20T21:10:45.453Z"
+      },
+      {
+        "id": "331cc32e-4a0c-4fff-a559-aca59b8cb738",
+        "created_at": "2023-09-20T20:47:01.393Z",
+        "updated_at": "2023-09-21T07:25:35.966Z"
+      }
+    ],
+    "message_attachments": [
+      {
+        "id": "d4fba359-0441-47fb-98e0-af449c4422ba",
+        "created_at": "2023-09-20T23:29:19.382Z",
+        "updated_at": "2023-09-20T19:34:47.768Z"
+      },
+      {
+        "id": "637aaed2-40a0-4462-81cd-291815a028f2",
+        "created_at": "2023-09-21T16:08:16.554Z",
+        "updated_at": "2023-09-21T02:32:50.042Z"
+      },
+      {
+        "id": "22d427e8-7573-4767-b315-5752da81c6dc",
+        "created_at": "2023-09-21T14:41:43.002Z",
+        "updated_at": "2023-09-20T23:51:47.717Z"
+      },
+      {
+        "id": "cd6f1ae4-5f36-4f07-8821-5da8448ac359",
+        "created_at": "2023-09-21T13:59:11.629Z",
+        "updated_at": "2023-09-20T22:48:40.492Z"
+      },
+      {
+        "id": "87b7e902-b545-4707-9856-6c035425c0bd",
+        "created_at": "2023-09-21T03:01:12.338Z",
+        "updated_at": "2023-09-21T18:44:09.339Z"
+      }
+    ],
+    "message": [
+      {
+        "id": "1c53efe7-f1c3-4d3b-98fa-7991be04aef8",
+        "created_at": "2023-09-21T17:21:56.649Z",
+        "updated_at": "2023-09-21T04:11:13.687Z"
+      },
+      {
+        "id": "97cc7356-399c-4fa0-b793-717b9d403917",
+        "created_at": "2023-09-21T16:10:35.679Z",
+        "updated_at": "2023-09-21T08:25:37.458Z"
+      },
+      {
+        "id": "5ec87d29-44f5-42a9-9a2b-f16b1311638d",
+        "created_at": "2023-09-21T00:16:17.354Z",
+        "updated_at": "2023-09-21T05:39:29.540Z"
+      },
+      {
+        "id": "d1334f15-6cc3-4be6-a77e-4ba795f3948d",
+        "created_at": "2023-09-20T21:18:56.539Z",
+        "updated_at": "2023-09-21T00:05:51.490Z"
+      },
+      {
+        "id": "28a4c790-74a3-44a7-aa09-494c7e2b4ac1",
+        "created_at": "2023-09-20T19:28:53.297Z",
+        "updated_at": "2023-09-21T01:05:38.034Z"
+      }
+    ],
+    "client_sessions": [
+      {
+        "id": "b1edb57e-ddce-42e4-9060-90ab93628443",
+        "created_at": "2023-09-21T17:30:06.805Z",
+        "updated_at": "2023-09-21T00:51:57.477Z"
+      },
+      {
+        "id": "8614d658-6d03-41c6-8da5-839ba11dd465",
+        "created_at": "2023-09-21T06:16:54.877Z",
+        "updated_at": "2023-09-21T06:46:47.262Z"
+      },
+      {
+        "id": "e930d385-99c1-4b1a-b168-c3975b05d917",
+        "created_at": "2023-09-21T13:32:42.860Z",
+        "updated_at": "2023-09-20T23:18:33.837Z"
+      },
+      {
+        "id": "108e9eed-abff-4cf1-9e70-89b2de3ec69e",
+        "created_at": "2023-09-21T08:47:18.123Z",
+        "updated_at": "2023-09-20T21:42:49.498Z"
+      },
+      {
+        "id": "04e38203-01d5-4924-90d7-f15bbd844af1",
+        "created_at": "2023-09-21T17:02:53.932Z",
+        "updated_at": "2023-09-21T14:14:19.395Z"
+      }
+    ],
+    "client_info": [
+      {
+        "id": "bfc1abe1-d971-4eb1-b905-502726babe70",
+        "created_at": "2023-09-21T01:50:11.566Z",
+        "updated_at": "2023-09-21T12:58:31.943Z"
+      },
+      {
+        "id": "85ca12d1-dc43-46e1-b4cc-2b15fd8bab7a",
+        "created_at": "2023-09-21T00:04:12.285Z",
+        "updated_at": "2023-09-21T08:07:12.278Z"
+      },
+      {
+        "id": "7e29eed7-ed88-4d8e-859b-5c38383bb2e1",
+        "created_at": "2023-09-21T06:02:54.534Z",
+        "updated_at": "2023-09-20T22:33:02.835Z"
+      },
+      {
+        "id": "7973e07f-ced2-47be-aaa3-85bf880af7d5",
+        "created_at": "2023-09-21T13:11:31.925Z",
+        "updated_at": "2023-09-21T04:24:07.663Z"
+      },
+      {
+        "id": "e5031c0c-63e5-4d86-b88c-ceb355bf8ea9",
+        "created_at": "2023-09-21T02:13:17.225Z",
+        "updated_at": "2023-09-21T12:50:20.944Z"
+      }
+    ],
+    "chat_session": [
+      {
+        "id": "b6f1c713-50c3-4ebf-82cf-7d3b02e1e44c",
+        "created_at": "2023-09-21T11:39:53.829Z",
+        "updated_at": "2023-09-21T17:31:25.476Z"
+      },
+      {
+        "id": "98a7ab00-a54f-456a-ad21-76aaefec3cf1",
+        "created_at": "2023-09-21T17:16:05.331Z",
+        "updated_at": "2023-09-21T16:44:12.021Z"
+      },
+      {
+        "id": "b37cb88a-7a4e-46dd-930e-5900edc4a0a4",
+        "created_at": "2023-09-21T03:08:47.533Z",
+        "updated_at": "2023-09-21T01:03:15.092Z"
+      },
+      {
+        "id": "d57798e6-db8b-434f-9906-1581b13606e4",
+        "created_at": "2023-09-21T11:16:27.769Z",
+        "updated_at": "2023-09-21T08:38:35.232Z"
+      },
+      {
+        "id": "881b9acf-0371-4aa7-9757-22bbf7b2b2e3",
+        "created_at": "2023-09-21T11:42:13.808Z",
+        "updated_at": "2023-09-21T11:39:24.756Z"
+      }
+    ],
+    "chat_history": [
+      {
+        "id": "806e546a-4c34-40b5-aef2-0a936176c018",
+        "created_at": "2023-09-20T19:33:25.084Z",
+        "updated_at": "2023-09-21T11:06:47.994Z"
+      },
+      {
+        "id": "1c83300e-e5c2-40fa-9509-91010040945f",
+        "created_at": "2023-09-20T23:45:22.141Z",
+        "updated_at": "2023-09-21T00:18:47.408Z"
+      },
+      {
+        "id": "cea723f6-e625-48c9-92d4-d8f5a05ec123",
+        "created_at": "2023-09-21T13:04:06.631Z",
+        "updated_at": "2023-09-21T00:54:43.348Z"
+      },
+      {
+        "id": "f5b5c41f-7cf9-4619-a400-86d06e2c7b72",
+        "created_at": "2023-09-21T14:53:07.251Z",
+        "updated_at": "2023-09-21T07:58:14.683Z"
+      },
+      {
+        "id": "676168b8-6095-4b06-bb67-76070838015a",
+        "created_at": "2023-09-21T12:09:25.555Z",
+        "updated_at": "2023-09-20T20:45:46.263Z"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "6ff2a9ee-746e-4a21-b101-cc543d486611",
+        "created_at": "2023-09-20T23:13:10.383Z",
+        "updated_at": "2023-09-21T16:09:00.580Z"
+      },
+      {
+        "id": "07b42ab3-f0db-4aad-adbc-6af824a8af56",
+        "created_at": "2023-09-20T22:58:44.960Z",
+        "updated_at": "2023-09-21T09:46:22.220Z"
+      },
+      {
+        "id": "f246a3de-2f2b-4c36-9af3-f82fe0374ba3",
+        "created_at": "2023-09-20T23:57:32.455Z",
+        "updated_at": "2023-09-20T22:17:50.922Z"
+      },
+      {
+        "id": "c6029d2d-0113-4b64-bd03-0a8d65cd112c",
+        "created_at": "2023-09-21T02:17:07.087Z",
+        "updated_at": "2023-09-21T04:30:56.490Z"
+      },
+      {
+        "id": "f6802582-54a7-42d4-8bcb-8520e393cbb2",
+        "created_at": "2023-09-21T07:25:54.284Z",
+        "updated_at": "2023-09-21T17:04:09.905Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f63594c0-76cf-4b88-ba2a-1d311a8f8412",
+        "email": "Jakob.McDermott21@roq.tech",
+        "firstName": "Lon",
+        "lastName": "Brekke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/302.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "17f72bfd-9913-4376-a41f-8d0bf50a2b7f",
+        "email": "Rory.Grant19@roq.tech",
+        "firstName": "Lia",
+        "lastName": "Jacobi",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1194.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5c639f93-fea1-4c82-9dfc-1b4b248e973e",
+        "email": "Ernestine_Romaguera1@roq.tech",
+        "firstName": "Janessa",
+        "lastName": "Monahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1086.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "83482600-176a-4de7-8ace-9fb1874f3d6d",
+        "email": "Marley.Prohaska18@roq.tech",
+        "firstName": "Dorcas",
+        "lastName": "Lehner-Wilkinson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60753106",
+        "tenantId": null
+      },
+      {
+        "reference": "6672209b-bfb1-4a5a-94dd-e0aabe278bb5",
+        "email": "Peter_Robel32@roq.tech",
+        "firstName": "Kory",
+        "lastName": "Kuhlman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1222.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
